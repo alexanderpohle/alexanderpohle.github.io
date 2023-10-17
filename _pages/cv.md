@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Evolutionary Biology, University of Zurich, 2021
+* MSc in Palaeontology, University of Zurich, 2016
+* BSc in Biology, University of Zurich, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2023 - Present: Postdoctoral researcher
+  * Ruhr University Bochum, Institute of Geology, Mineralogy and Geophysics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* November 2021 - Collection Assistant 2022: Collection Assistant
+  * Palaeontological Institut and Museum, University of Zurich
+    
+* November 2016 - October 2021: PhD Student
+  * Palaeontological Institute and Museum, University of Zurich
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* December 2014 - October 2016: Collection Assistant
+  * Palaeontological Institut and Museum, University of Zurich
