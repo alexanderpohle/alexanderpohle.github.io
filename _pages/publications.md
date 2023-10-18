@@ -41,7 +41,7 @@ author_profile: true
 
 - Klug, C., **Pohle, A.**, Kiel, S. & Kröger, B. (2018). A fossilized marble run: the peculiar taphonomy of Ordovician diploporitan blastozoans from Sweden. *Swiss Journal of Palaeontology, 137(2)*, 405–411. <https://doi.org/10.1007/s13358-018-0173-x>
 - **Pohle, A.** & Klug, C. (2018). Early and Middle Devonian Cephalopods from Hamar Laghdad (Tafilalt, Morocco) and remarks on epicoles and cameral deposits. *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 290(1–3)*, 203–240. <https://doi.org/10.1127/njgpa/2018/0776>
-- Klug, C., Samankassou, E., Pohle, A., De Baets, K., Franchi, F. & Korn, D. (2018). Oases of biodiversity: Devonian mudmounds at Hamar Laghdad, Morocco. *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 290(1–3)*, 9–48. <https://doi.org/10.1127/njgpa/2018/0772>
+- Klug, C., Samankassou, E., **Pohle, A.**, De Baets, K., Franchi, F. & Korn, D. (2018). Oases of biodiversity: Devonian mudmounds at Hamar Laghdad, Morocco. *Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 290(1–3)*, 9–48. <https://doi.org/10.1127/njgpa/2018/0772>
 - **Pohle, A.** & Klug, C. (2018). Body size of orthoconic cephalopods from the late Silurian and Devonian of the Anti-Atlas (Morocco). *Lethaia, 51(1)*, 126–148. <https://doi.org/10.1111/let.12234>
 
 ### 2017
@@ -84,7 +84,7 @@ author_profile: true
 - Klug, C., **Pohle, A.**, Fuchs, D. & Hoffmann, R. (2022). Exceptionally preserved cephalopod fossils from conservation deposits. 11<sup>th</sup> International Symposium on Cephalopods Present and Past, London, United Kingdom.
 - Klug, C., Frey, L., Coates, M., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2022). Anatomy and phylogeny of a close relative of the chondrichthyan Cladoselache from the Devonian of Morocco. *66<sup>th</sup> Annual Meeting of The Palaeontological Association, Cork, Ireland.
 - Warnock, R.C.M., Barido-Sottani, J., De Baets, K., Sciré, J., **Pohle, A.** & Murdock, D. (2022). Evaluating different approaches to handling taxonomic uncertainty using the fossilized birth-death process. *Evolution 2022*, Cleveland (Ohio), USA.
-- Klug, C., Samankassou, E., **Pohle, A.**, Zapalski, M. & Korn, D. (2018). Couscous ai frutti di mare - the spectacular Moroccan mudmound locality Hamar Laghdad and its palaeoecology. *16<sup>th</sup> Swiss Geoscience Meeting, Bern, Switzerland.
+- Klug, C., Samankassou, E., **Pohle, A.**, Zapalski, M. & Korn, D. (2018). Couscous ai frutti di mare - the spectacular Moroccan mudmound locality Hamar Laghdad and its palaeoecology. *16<sup>th</sup> Swiss Geoscience Meeting*, Bern, Switzerland.
 - Samankassou, E., Klug, C., **Pohle, A.** & Franchi, F. (2018). Oases of biodiversity: Devonian mudmounds at Hamar Laghdad, Morocco. *20<sup>th</sup> International Sedimentological Congress*, Québec, Canada.
 - Klug, C., Samankassou, E., **Pohle, A.**, Zapalski, M. & Korn, D. (2018). Couscous ai frutti di mare – Early Devonian palaeoecology of the Moroccan mudmound locality Hamar Laghdad. *5<sup>th</sup> International Palaeontological Congress*, Paris, France.
 - Klug, C., Frey, L., **Pohle, A.**, De Baets, K. & Korn, D. (2018). Palaeozoic evolution of cephalopod mouthparts. *10<sup>th</sup> International Symposium of Cephalopods Present and Past*, Fez, Morocco.
