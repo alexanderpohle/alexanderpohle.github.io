@@ -90,7 +90,7 @@ author_profile: true
 - Klug, C., Frey, L., **Pohle, A.**, De Baets, K. & Korn, D. (2018). Palaeozoic evolution of cephalopod mouthparts. *10<sup>th</sup> International Symposium of Cephalopods Present and Past*, Fez, Morocco.
 - Klug, C., Frey, L., **Pohle, A.** & Rücklin, M. (2017). Origin of the Konservatlagerstätten of the southern Maïder (Morocco) and gnathostome preservation. *14<sup>th</sup> International Symposium on Early and Lower Vertebrates*, Chęciny, Poland.
 
-## Public talks
+## Public talks and seminars
 
 - **Pohle, A.** (2022). Die Formenvielfalt der frühesten Kopffüsser und ihre Evolution. Naturhistorisches Museum Bern, Bern, Switzerland.
 - **Pohle, A.** (2019). Diversity and Palaeobiology of nautiloid cephalopods from the Devonian of the eastern Anti-Atlas (Morocco). Nanjing Institute of Geology and Palaeontology, Nanjing, China.
