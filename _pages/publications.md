@@ -52,7 +52,7 @@ author_profile: true
 
 - Stevens, K., **Pohle, A.**, Hoffmann, R. & Immenhauser, A. (2022). Bayesian inference reveals a complex evolutionary history of belemnites. *bioRxiv*. <https://doi.org/10.1101/2022.08.22.504746>
 - Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2022). Putting the F in FBD analyses: tree constraints or morphological data? *bioRxiv*. <https://doi.org/10.1101/2022.07.07.499091>
-- Klug, C. & **Pohle, A.** (2018). The eastern Amessoui Syncline - a hotspot for Silurian to Carboniferous cephalopod research. *Münstersche Forschungen zur Geologie und Paläontologie, 110*, 244–260.
+- Klug, C. & **Pohle, A.** (2018). The eastern Amessoui Syncline - a hotspot for Silurian to Carboniferous cephalopod research. *Field Guidebook: 10<sup>th</sup> International Symposium of Cephalopods Present and Past, Münstersche Forschungen zur Geologie und Paläontologie, 110*, 244–260.
 - Klug, C., Bohatý, J., Müller, P. & **Pohle, A.** (2017). Erstes vollständiges Nautiliden-Gehäuse aus der Lahn-Mulde - paläontologische Auswertung des Schurfs "Löhnberg I", Lkr. Limburg-Weilburg. *hessenARCHÄOLOGIE - Jahrbuch für Archäologie und Paläontologie in Hessen, 2016*, 27–29.
 
 ## Conference contributions
@@ -92,11 +92,13 @@ author_profile: true
 
 ## Public talks and seminars
 
-- **Pohle, A.** (2022). Die Formenvielfalt der frühesten Kopffüsser und ihre Evolution. Naturhistorisches Museum Bern, Bern, Switzerland.
+- **Pohle, A.** (2023). The third dimension: How a forgotten fauna of latest Cambrian cephalopods reveals long-standing misinterpretations. Institut für Geologie und Paläontologie, Universität Münster.
+- **Pohle, A.** (2023). Die Formenvielfalt der frühesten Kopffüsser und ihre Evolution. *Mineralien- und Fossilienfreunde Aargau, Vorträge*, Restaurant Ochsen, Lupfig, Switzerland (in German).
+- **Pohle, A.** (2022). Die Formenvielfalt der frühesten Kopffüsser und ihre Evolution. *Mineralien- und Fossilienfreunde Bern, Vorträge* Naturhistorisches Museum Bern, Bern, Switzerland (in German).
 - **Pohle, A.** (2019). Diversity and Palaeobiology of nautiloid cephalopods from the Devonian of the eastern Anti-Atlas (Morocco). Nanjing Institute of Geology and Palaeontology, Nanjing, China.
-- **Pohle, A.** (2019). Mützen, Tüten und Spiralen: Die frühe Evolution der Kopffüsser. *Öffentliche Museumsvorträge*, Paläontologisches Institut und Museum, Universität Zürich, Switzerland.
-- **Pohle, A.** (2016). Seh‘ ich recht? Merkwürdige Lebensformen im Laufe der Erdgeschichte. *Lange Nach der Zürcher Museen*, Paläontologisches Institut und Museum, Universität Zürich, Switzerland.
-- **Pohle, A.** (2015). Urtümliche Kopffüsser: Kopfüber durch die Urmeere. *Lange Nach der Zürcher Museen*, Paläontologisches Institut und Museum, Universität Zürich, Switzerland.
+- **Pohle, A.** (2019). Mützen, Tüten und Spiralen: Die frühe Evolution der Kopffüsser. *Öffentliche Museumsvorträge*, Paläontologisches Institut und Museum, Universität Zürich, Switzerland (in German).
+- **Pohle, A.** (2016). Seh‘ ich recht? Merkwürdige Lebensformen im Laufe der Erdgeschichte. *Lange Nach der Zürcher Museen*, Paläontologisches Institut und Museum, Universität Zürich, Switzerland (in German).
+- **Pohle, A.** (2015). Urtümliche Kopffüsser: Kopfüber durch die Urmeere. *Lange Nach der Zürcher Museen*, Paläontologisches Institut und Museum, Universität Zürich, Switzerland (in German).
 
 ## Outreach
 
