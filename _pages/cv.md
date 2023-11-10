@@ -92,29 +92,29 @@ redirect_from:
 
 ## Teaching experience
 
-* **BIO 264: Palaeobiology and Evolution of Invertebrates** (6 ECTS, 30 teaching hours per semester)
-    Fall semester 2017, 2019
+* **BIO 264: Palaeobiology and Evolution of Invertebrates** (6 ECTS, 30 teaching hours per semester)  
+    Fall semester 2017, 2019  
     Teaching assistance during one-day field trip and afterwards, advising students preparing their reports, teaching lectures on cephalopod palaeobiology.
 
-* **BIO 268: Palaeontological Fieldwork** (6 ECTS, 100 teaching hours per semester)
-    Spring semester 2017, 2018, 2019
+* **BIO 268: Palaeontological Fieldwork** (6 ECTS, 100 teaching hours per semester)  
+    Spring semester 2017, 2018, 2019  
     Teaching assistance in the field, advising students during writing of their reports and afterwards correction of reports.
 
-* **BIO 586: Evolution and Palaeobiology of Cephalopods** (1 ECTS, 5 teaching hours per semester)
-    Spring semester 2018
+* **BIO 586: Evolution and Palaeobiology of Cephalopods** (1 ECTS, 5 teaching hours per semester)  
+    Spring semester 2018  
     Teaching lectures on Palaeozoic nautiloids and early cephalopod evolution.
 
-* **ERD 241: Palaeontology** (3 ECTS, 10 teaching hours per semester)
-    Spring semester 2017, 2018
+* **ERD 241: Palaeontology** (3 ECTS, 10 teaching hours per semester)  
+    Spring semester 2017, 2018  
     Teaching assistance during practicals.
 
 ### Non-academic teaching experience
 
-* **Handball instructor and coach**
-    Seasons 2010/2011 - 2017/2018
-    BSC Wettingen/Siggenthal (Switzerland), Female youth (age 13-18)
-    Board member of club (youth manager) between 2011-2018
-    Jugend+Sport licence D
+* **Handball instructor and coach**  
+    Seasons 2010/2011 - 2017/2018  
+    BSC Wettingen/Siggenthal (Switzerland), Female youth (age 13-18)  
+    Board member of club (youth manager) between 2011-2018  
+    Jugend+Sport licence D  
     Two training sessions of 90 minutes per week, plus competitive matches on weekends
 
 
