@@ -89,3 +89,43 @@ redirect_from:
 * **Swiss National Science Foundation Project 200020_169627**  
     09/2016  
     Co-authored proposal for own PhD project "Evolution and Palaeobiology of early cephalopods (Nautiloidea)", granted to Prof. Christian Klug
+
+## Teaching experience
+
+* **BIO 264: Palaeobiology and Evolution of Invertebrates** (6 ECTS, 30 teaching hours per semester)
+    Fall semester 2017, 2019
+    Teaching assistance during one-day field trip and afterwards, advising students preparing their reports, teaching lectures on cephalopod palaeobiology.
+
+* **BIO 268: Palaeontological Fieldwork** (6 ECTS, 100 teaching hours per semester)
+    Spring semester 2017, 2018, 2019
+    Teaching assistance in the field, advising students during writing of their reports and afterwards correction of reports.
+
+* **BIO 586: Evolution and Palaeobiology of Cephalopods** (1 ECTS, 5 teaching hours per semester)
+    Spring semester 2018
+    Teaching lectures on Palaeozoic nautiloids and early cephalopod evolution.
+
+* **ERD 241: Palaeontology** (3 ECTS, 10 teaching hours per semester)
+    Spring semester 2017, 2018
+    Teaching assistance during practicals.
+
+### Non-academic teaching experience
+
+* **Handball instructor and coach**
+    Seasons 2010/2011 - 2017/2018
+    BSC Wettingen/Siggenthal (Switzerland), Female youth (age 13-18)
+    Board member of club (youth manager) between 2011-2018
+    Jugend+Sport licence D
+    Two training sessions of 90 minutes per week, plus competitive matches on weekends
+
+
+## Field experience
+
+* Germany (Bavaria, North-Rhine-Westphalia, Thuringia), Devonian, Permian-Jurassic: 2022, 2023
+
+* Spain (Aragon), Cambrian-Devonian: 2019
+
+* Estonia (Haarju, Saarema), Ordovician-Silurian: 2018
+
+* Switzerland (Aargau), Triassic-Jurassic: 2017, 2019
+
+* Morocco (Drâa-Tafilalet), Devonian: 2014, 2015, 2017, 2018, 2019
