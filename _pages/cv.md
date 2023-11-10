@@ -37,16 +37,22 @@ redirect_from:
     Institute of Geology, Mineralogy and Geophysics  
     Department Sediment and Isotope Geology  
     Supervisor: Prof. Adrian Immenhauser  
-    Studying belemnite phylogeny
+    Studying the phylogeny of Mesozoic coleoids, in particular belemnites, including geochemical approaches
+
+* **Postdoctoral researcher**  
+    10/2021 - 12/2022  
+    University of Zurich, Switzerland  
+    Palaeontological Institute and Museum  
+    Short project on Triassic cephalopods (orthoceratoids and coleoids) from Switzerland
 
 * **Collection assistant**  
     10/2021 - 12/2022  
     University of Zurich, Switzerland  
     Palaeontological Institute and Museum  
-    Database management, preparations for move of collections
+    Database management, preparations for subsequent move of collections
 
 * **Technical assistant**  
-    01/2021 - 08/2022  
+    01/2021 - 09/2021  
     University of Zurich, Switzerland  
     Palaeontological Institute and Museum  
     Segmentation of CT scan data for 3D reconstruction
@@ -56,7 +62,7 @@ redirect_from:
     University of Zurich, Switzerland  
     Palaeontological Institute and Museum  
     Supervisor: Prof. Christian Klug  
-    Stuying Palaeozoic "nautiloid" cephalopods
+    Stuying phylogeny and palaeobiology of early Palaeozoic "nautiloid" cephalopods
 
 * **Collection assistant**  
     12/2014 - 10/2016  
@@ -94,25 +100,25 @@ redirect_from:
 
 * **BIO 264: Palaeobiology and Evolution of Invertebrates** (6 ECTS, 30 teaching hours per semester)  
     Fall semester 2017, 2019  
-    Teaching assistance during one-day field trip and afterwards, advising students preparing their reports, teaching lectures on cephalopod palaeobiology.
+    Teaching assistance during one-day field trip and afterwards, advising students preparing their reports, teaching lectures on cephalopod palaeobiology
 
 * **BIO 268: Palaeontological Fieldwork** (6 ECTS, 100 teaching hours per semester)  
     Spring semester 2017, 2018, 2019  
-    Teaching assistance in the field, advising students during writing of their reports and afterwards correction of reports.
+    Teaching assistance in the field, advising students during writing of their reports and afterwards correction of reports
 
 * **BIO 586: Evolution and Palaeobiology of Cephalopods** (1 ECTS, 5 teaching hours per semester)  
     Spring semester 2018  
-    Teaching lectures on Palaeozoic nautiloids and early cephalopod evolution.
+    Teaching lectures on Palaeozoic nautiloids and early cephalopod evolution
 
 * **ERD 241: Palaeontology** (3 ECTS, 10 teaching hours per semester)  
     Spring semester 2017, 2018  
-    Teaching assistance during practicals.
+    Teaching assistance during practicals
 
 ### Non-academic teaching experience
 
 * **Handball instructor and coach**  
     Seasons 2010/2011 - 2017/2018  
-    BSC Wettingen/Siggenthal (Switzerland), Female youth (age 13-18)  
+    BSC Wettingen/Siggenthal (Switzerland), female youth (age 13-18)  
     Board member of club (youth manager) between 2011-2018  
     Jugend+Sport licence D  
     Two training sessions of 90 minutes per week, plus competitive matches on weekends
@@ -120,12 +126,27 @@ redirect_from:
 
 ## Field experience
 
-* Germany (Bavaria, North-Rhine-Westphalia, Thuringia), Devonian, Permian-Jurassic: 2022, 2023
+* **Germany**  
+    2022, 2023  
+    Bavaria, North-Rhine-Westphalia, Thuringia  
+    Devonian, Permian-Jurassic
 
-* Spain (Aragon), Cambrian-Devonian: 2019
+* **Spain**  
+    2019  
+    Aragon  
+    Cambrian-Devonian
 
-* Estonia (Haarju, Saarema), Ordovician-Silurian: 2018
+* **Estonia**  
+    2018  
+    Haarju, Saarema  
+    Ordovician-Silurian
 
-* Switzerland (Aargau), Triassic-Jurassic: 2017, 2019
+* **Switzerland**  
+    2017, 2019  
+    Aargau  
+    Triassic-Jurassic
 
-* Morocco (Drâa-Tafilalet), Devonian: 2014, 2015, 2017, 2018, 2019
+* **Morocco**  
+    2014, 2015, 2017, 2018, 2019  
+    Drâa-Tafilalet  
+    Devonian

@@ -5,7 +5,11 @@ permalink: /taxonomy/
 author_profile: true
 ---
 
-Here, I list all taxa where I contributed in their first description (even if my own part was only small in some cases). All taxa are provided with a very brief characterisation, including its age, provenance and link to the corresponding publication.
+Taxonomy is an important discipline that sets the foundation for a significant part of biological research, yet it is [often undervalued and the number of taxonomists is decreasing](https://doi.org/10.1093/zoolinnean/zlab072). This is not only true for extant biology, but also for palaeontology, where taxonomic papers rarely get cited and in turn it is difficult to get funding. Taxonomic names are usually not listed in CV's, although the author's names are an integral part of them. So I think this website is a good place to list all the taxa where I have been involved in naming and describing them.
+
+I list all taxa where I contributed in their first description in chronological order (even if my own part was only small in some cases). All taxa are provided with a very brief characterisation, including its age, provenance and link to the corresponding publication. 
+
+Note that taxonomy is an organic discipline, meaning that names may change or become invalidated by future work, though I will try to update this list as best as possible.
 
 ## Family level and above
 
