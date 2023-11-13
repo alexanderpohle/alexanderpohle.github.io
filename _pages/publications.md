@@ -9,6 +9,7 @@ author_profile: true
 
 ### 2023
 
+- Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2023). Putting the F into FBD analysis: tree constraints or morphological data? *Palaeontology, 66(6)*, e12679. <https://doi.org/10.1111/pala.12679>
 - Klug, C., Hoffmann, R., Tischlinger, H., Fuchs, D., **Pohle, A.**, Rowe, A., et al. (2023). ‘Arm brains’ (axial nerves) of Jurassic coleoids and the evolution of coleoid neuroanatomy. *Swiss Journal of Palaeontology, 142*, 22. <https://doi.org/10.1186/s13358-023-00285-3>
 - Stevens, K.\*, **Pohle, A.**\*, Hoffmann, R., & Immenhauser, A. (2023). Bayesian inference reveals a complex evolutionary history of belemnites. *Palaeontologia Electronica, 26(1)*, a13. <https://doi.org/10.26879/1239>
 - Klug, C., Coates, M., Frey, M. Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2023). Broad snouted cladoselachian with sensory specialization at the base of modern chondrichthyans. *Swiss Journal of Palaeontology, 142*, 2. <https://doi.org/10.1186/s13358-023-00266-6>

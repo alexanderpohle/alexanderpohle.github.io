@@ -5,7 +5,7 @@ permalink: /taxonomy/
 author_profile: true
 ---
 
-Taxonomy is an important discipline that sets the foundation for a significant part of biological research, yet it is [often undervalued and the number of taxonomists is decreasing](https://doi.org/10.1093/zoolinnean/zlab072). This is not only true for extant biology, but also for palaeontology, where taxonomic papers rarely get cited and in turn it is difficult to get funding. Taxonomic names are usually not listed in CV's, although the author's names are an integral part of them. So I think this website is a good place to list all the taxa where I have been involved in naming and describing them.
+Taxonomy is an important discipline that sets the foundation for a significant part of biological research, yet it is often undervalued and the [number of taxonomists is decreasing](https://doi.org/10.1093/zoolinnean/zlab072). This is not only true for extant biology, but also for palaeontology, where taxonomic papers rarely get cited and in turn it is difficult to get funding. Taxonomic names are usually not listed in CV's, although the author's names are an integral part of them. So I think this website is a good place to list all the taxa where I have been involved in naming and describing them.
 
 I list all taxa where I contributed in their first description in chronological order (even if my own part was only small in some cases). All taxa are provided with a very brief characterisation, including its age, provenance and link to the corresponding publication. 
 
@@ -81,25 +81,70 @@ Note that taxonomy is an organic discipline, meaning that names may change or be
     This is the type species of the same genus as the above species and one of the largest oncocerids ever recorded, which is why we decided to name it Goliath. It is an acleistoceratid (Oncocerida, Multiceratoidea, Cephalopoda), probably from the Eifelian (Middle Devonian; note that we stated Givetian as its age in the original publication, but we now have reason to believe that it is actually slightly older, as additional specimens have been found). [Link](https://doi.org/10.1007/s13358-019-00182-8)
 
 12. ***Rhynchorthoceras yizanense*** Fang in Fang, Pohle, Kröger, Aubrechtová, Burrett, Zhang & Zhang, 2021  
+    This species belongs to the Sinoceratidae (Lituitida, Orthoceratoidea, Cephalopoda) and some specimens have beautifully preserved conch ornamentation consisting of distinct sinuous growth lines. It comes from the Sandbian (Late Ordovician) of South China. [Link](https://doi.org/10.1080/14772019.2021.1944354)
+
 13. ***Sinoceras complexum*** Fang in Fang, Pohle, Kröger, Aubrechtová, Burrett, Zhang & Zhang, 2021  
+    A straight-shelled member of the Sinoceratidae (Lituitida, Orthoceratoidea, Cephalopoda) with comparatively long septal necks, from the Katian (Late Ordovician) of South China. [Link](https://doi.org/10.1080/14772019.2021.1944354)
+
 14. ***Tyrioceras longicameratum*** Fang in Fang, Pohle, Kröger, Aubrechtová, Burrett, Zhang & Zhang, 2021  
-11. ***Bactroceras fluvii*** Kröger & Pohle, 2021  
-12. ***Buttsoceras buldrebreenense*** Kröger & Pohle, 2021  
-13. ***Cycloplectoceras hinlopense*** Kröger & Pohle, 2021  
-14. ***Cyclostomiceras profilstrandense*** Kröger & Pohle, 2021  
-15. ***Deltoceras beluga*** Kröger & Pohle, 2021  
-16. ***Eosomichelinoceras borealis*** Kröger & Pohle, 2021  
-17. ***Ethanoceras solitudines*** Kröger & Pohle, 2021  
-18. ***Hemichoanella occulta*** Kröger & Pohle, 2021  
-19. ***Hinlopoceras tempestatis*** Kröger & Pohle, 2021  
-20. ***Hinlopoceras venti*** Kröger & Pohle, 2021  
-21. ***Lawrenceoceras ebenus*** Kröger & Pohle, 2021  
-22. ***Lawrenceoceras larus*** Kröger & Pohle, 2021  
-23. ***Litoceras profilbekkenense*** Kröger & Pohle, 2021  
-24. ***Nyfrieslandoceras bassleroceroides*** Kröger & Pohle, 2021  
-25. ***Olenidslettoceras farmi*** Kröger & Pohle, 2021  
-26. ***Protocycloceras minor*** Kröger & Pohle, 2021  
-27. ***Proterocameroceras valhallfonnense*** Kröger & Pohle, 2021  
-28. ***Svalbardoceras sterna*** Kröger & Pohle, 2021  
-29. ***Svalbardoceras skua*** Kröger & Pohle, 2021  
-30. ***Maghriboselache mohamezanei*** Klug, Coates, Frey, Greif, Jobbins, Pohle, Lagnaoui, Bel Haouz & Ginter, 2023  
+    The first record of this sinoceratid (Lituitida, Orthoceratoidea, Cephalopoda) genus from Asia, from the Katian of South China [Link](https://doi.org/10.1080/14772019.2021.1944354)
+
+15. ***Bactroceras fluvii*** Kröger & Pohle, 2021  
+    A bactroceratid (Riocerida, Orthoceratoidea, Cephalopoda) with relatively wide siphuncle from the Dapingian (Middle Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+16. ***Buttsoceras buldrebreenense*** Kröger & Pohle, 2021  
+    This species is unique within this genus of the Troedsonellidae (Dissidocerida, Orthoceratoidea, Cephalopoda) in that it has an elliptically compressed cross section. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+17. ***Cycloplectoceras hinlopense*** Kröger & Pohle, 2021  
+    A strongly ribbed member of the Tarphyceratidae (Tarphycerida, Multiceratoidea, Cephalopoda), from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+18. ***Cyclostomiceras profilstrandense*** Kröger & Pohle, 2021  
+    A weakly ornamented member of this genus belonging to the Cyclostomiceratidae (Ellesmerocerida?, Multiceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+19. ***Deltoceras beluga*** Kröger & Pohle, 2021  
+    A tarphyceratid or estonioceratid (Tarphycerida, Multiceratoidea, Cephalopoda) with a relatively high whorl cross section from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+20. ***Eosomichelinoceras borealis*** Kröger & Pohle, 2021  
+    A member of the Baltoceratidae (Orthocerida, Orthoceratoidea, Cephalopoda) with eccentric siphuncle and curved early ontogenetic stage, from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+21. ***Ethanoceras solitudines*** Kröger & Pohle, 2021  
+    Type species of a new genus (see above). A rioceratid (Riocerida, Orthoceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+22. ***Hemichoanella occulta*** Kröger & Pohle, 2021  
+    This species was difficult to place, as it also shows similarities with some species of *Catoraphiceras*, *Notocycloceras*, and *Anthoceras*. We placed it in the Cyptendoceratidae (Dissidocerida, Orthoceratoidea, Cephalopoda), and it occurs in the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+23. ***Hinlopoceras tempestatis*** Kröger & Pohle, 2021  
+    Type species of a new genus (see above). A rioceratid (Riocerida, Orthoceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+24. ***Hinlopoceras venti*** Kröger & Pohle, 2021  
+    Another species of the same genus as the preceding (Riocerida, Orthoceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen, mainly differing in its conch ornamentation. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+25. ***Lawrenceoceras ebenus*** Kröger & Pohle, 2021  
+    A cyrtocone with elliptically depressed cross section, differing from its congeners in its conch ornamentation. This one is a representative of the Bassleroceratidae (Ellesmerocerida?, Multiceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+26. ***Lawrenceoceras larus*** Kröger & Pohle, 2021  
+    A member of the same genus as above (Ellesmerocerida?, Multiceratoidea, Cephalopoda), but more slender than other species. Also from the Floian (Middle Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+27. ***Litoceras profilbekkenense*** Kröger & Pohle, 2021  
+    This one is a member of the Trocholitidae, (Tarphycerida, Multiceratoidea, Cephalopoda) and may represent a morphological and stratigraphic link between *Trocholitoceras* and *Litoceras*, both being coiled cephalopods with relatively wide whorls and central to dorsal siphuncles. This species is from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+28. ***Nyfrieslandoceras bassleroceroides*** Kröger & Pohle, 2021  
+   Type species of a new genus (see above). A phthanoncoceratid (Oncocerida, Multiceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+29. ***Olenidslettoceras farmi*** Kröger & Pohle, 2021  
+   Type species of a new genus (see above). A phthanoncoceratid (Oncocerida, Multiceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+30. ***Protocycloceras minor*** Kröger & Pohle, 2021  
+    A small member of this distinctly annulated genus that was long seen as the type genus of its own family Protocycloceratidae, but we reassigned it to the Troedsonellidae (Dissidocerida, Orthoceratoidea, Cephalopoda) instead, based on the presence of diaphragms and calcaereous linings within the siphuncle. It is from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+31. ***Proterocameroceras valhallfonnense*** Kröger & Pohle, 2021  
+    From this species, no endocones were preserved, and therefore, its placement within this genus and even order and subclass (Proterocameroceratidae, Endoceratoidea, Cephalopoda) are somewhat uncertain. However, it agrees with other members of this group in being an orthocone with a very large siphuncle and short septal necks. It is from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+32. ***Svalbardoceras sterna*** Kröger & Pohle, 2021  
+    Type species of a new genus (see above). A rioceratid (Riocerida, Orthoceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+33. ***Svalbardoceras skua*** Kröger & Pohle, 2021  
+    Another species of the same genus as the previous one (Riocerida, Orthoceratoidea, Cephalopoda) from the Floian (Early Ordovician) of Spitsbergen, differing in having a circular rather than a elliptically compressed cross section. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+
+34. ***Maghriboselache mohamezanei*** Klug, Coates, Frey, Greif, Jobbins, Pohle, Lagnaoui, Bel Haouz & Ginter, 2023  
+   Type species of a new genus (see above). A cladoselachian (Symmoriiformes, Holocephali, Chondrichthyes) from the Famennian (Late Devonian) of Morocco. [Link](https://doi.org/10.1186/s13358-023-00266-6)
