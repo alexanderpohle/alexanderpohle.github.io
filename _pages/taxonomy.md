@@ -150,4 +150,4 @@ Note that taxonomy is an organic discipline, meaning that names may change or be
    Type species of a new genus (see above). A cladoselachian (Symmoriiformes, Holocephali, Chondrichthyes) from the Famennian (Late Devonian) of Morocco. [Link](https://doi.org/10.1186/s13358-023-00266-6)
 
 35. ***Ellesmeroceras humahuacaensis*** Cichowolski, Vaccari, Pohle, Morón-Alfonso, Vaucher & Waisfeld, 2023
-    A tiny ellesmeroceratid (Ellesmerocerida, stem Cephalopoda), the oldest known cephalopod from South America, from the early Tremadocian of Argentina. [Link] (https://doi.org/10.4202/app.01103.2023)
+    A tiny ellesmeroceratid (Ellesmerocerida, stem Cephalopoda), the oldest known cephalopod from South America, from the early Tremadocian of Argentina. [Link](https://doi.org/10.4202/app.01103.2023)
