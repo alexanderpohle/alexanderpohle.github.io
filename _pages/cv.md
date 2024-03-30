@@ -39,17 +39,12 @@ redirect_from:
     Supervisor: Prof. Adrian Immenhauser  
     Studying the phylogeny of Mesozoic coleoids, in particular belemnites, including geochemical approaches
 
-* **Postdoctoral researcher**  
-    10/2021 - 12/2022  
-    University of Zurich, Switzerland  
-    Palaeontological Institute and Museum  
-    Short project on Triassic cephalopods (orthoceratoids and coleoids) from Switzerland
-
 * **Collection assistant**  
     10/2021 - 12/2022  
     University of Zurich, Switzerland  
     Palaeontological Institute and Museum  
     Database management, preparations for subsequent move of collections
+    Short research project on Triassic cephalopods (orthoceratoids and coleoids) from Switzerland
 
 * **Technical assistant**  
     01/2021 - 09/2021  

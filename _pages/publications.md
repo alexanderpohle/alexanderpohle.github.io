@@ -7,9 +7,13 @@ author_profile: true
 
 ## Peer-reviewed articles
 
+### 2024
+- **Pohle, A.** & Klug, C. (2024). Orthoceratoid and coleoid cephalopods from the Middle Triassic of Switzerland with an updated taxonomic framework for Triassic Orthoceratoidea. *Swiss Journal of Palaeontology, 143*, XX. <https://doi.org/10.1186/s13358-024-00307-8>
+- **Pohle, A.**, Jell, P. & Klug, C. (2024). Plectronoceratids (Cephalopoda) from the latest Cambrian at Black Mountain, Queensland, reveal complex three-dimensional siphuncle morphology, with major taxonomic implications. *PeerJ, 12*, e17003. <https://doi.org/10.7717/peerj.17003>
+
 ### 2023
 
-- Cichowolski, M., Vaccari, N., **Pohle, A**, Morón-Alfonso, D.A., Vaucher, R., Waisfeld, B.G. (2023). Early Tremadocian cephalopods from Santa Rosita Formation in NW Argentina: the oldest record for South America. *Acta Palaeontologica Polonica 68(4)*, XX-XX. <https://doi.org/10.4202/app.01103.2023>
+- Cichowolski, M., Vaccari, N., **Pohle, A.**, Morón-Alfonso, D.A., Vaucher, R. & Waisfeld, B.G. (2023). Early Tremadocian cephalopods from Santa Rosita Formation in NW Argentina: the oldest record for South America. *Acta Palaeontologica Polonica 68(4)*, 583-601. <https://doi.org/10.4202/app.01103.2023>
 - Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2023). Putting the F into FBD analysis: tree constraints or morphological data? *Palaeontology, 66(6)*, e12679. <https://doi.org/10.1111/pala.12679>
 - Klug, C., Hoffmann, R., Tischlinger, H., Fuchs, D., **Pohle, A.**, Rowe, A., et al. (2023). ‘Arm brains’ (axial nerves) of Jurassic coleoids and the evolution of coleoid neuroanatomy. *Swiss Journal of Palaeontology, 142*, 22. <https://doi.org/10.1186/s13358-023-00285-3>
 - Stevens, K.\*, **Pohle, A.**\*, Hoffmann, R., & Immenhauser, A. (2023). Bayesian inference reveals a complex evolutionary history of belemnites. *Palaeontologia Electronica, 26(1)*, a13. <https://doi.org/10.26879/1239>
@@ -30,7 +34,7 @@ author_profile: true
 ### 2020
 
 - **Pohle, A.**, Fuchs, D., Korn D. & Klug, C. (2020). Spatial distribution of oncocerid cephalopods on a Middle Devonian bedding plane suggests semelparous life cycle. *Scientific Reports, 10*, 2847. <https://doi.org/10.1038/s41598-020-59507-0>
-- Frey, L., **Pohle, A.**, Rücklin, M. & Klug, C. (2020). Fossil‐Lagerstätten, palaeoecology and preservation of invertebrates and vertebrates from the Devonian in the eastern Anti‐Atlas, Morocco. *Lethaia, 53(2)*, 242-266. <https://doi.org/10.1111/let.12354>
+- Frey, L., **Pohle, A.**, Rücklin, M. & Klug, C. (2020). Fossil-Lagerstätten, palaeoecology and preservation of invertebrates and vertebrates from the Devonian in the eastern Anti‐Atlas, Morocco. *Lethaia, 53(2)*, 242-266. <https://doi.org/10.1111/let.12354>
 
 ### 2019
 
@@ -79,7 +83,7 @@ author_profile: true
 
 ### Posters
 
-- **Pohle, A.** (2023). A persistent misnomer: The curious case of the Paleozoic cephalopod Orthoceras. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany. **Awarded 3<sup>rd</sup> place as best poster**
+- **Pohle, A.** (2023). A persistent misnomer: The curious case of the Paleozoic cephalopod *Orthoceras*. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany. **Awarded 3<sup>rd</sup> place as best poster**
 
 ### Co-authored contributions
 
@@ -104,4 +108,8 @@ author_profile: true
 
 ## Outreach
 
-- **Pohle, A.** (2022). Cones, sticks and croissants: Early cephalopod evolution. *Nature Communities, Behind the Paper*. <https://ecoevocommunity.nature.com/posts/early-cephalopod-evolution>
+- **Pohle, A.** (2022). Cones, sticks and croissants: Early cephalopod evolution. *Nature Communities, Behind the Paper*. <https://communities.springernature.com/posts/cones-sticks-and-croissants-early-cephalopod-evolution>
+
+## Media coverage
+
+- March 19, 2024. Article Spotlight: Plectronoceratids (Cephalopoda) from the latest Cambrian at Black Mountain. *Communities @ PeerJ*. <https://peerj.com/blog/post/115284889009/> (with video interview on Youtube)
