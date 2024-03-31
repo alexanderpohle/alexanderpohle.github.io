@@ -159,4 +159,4 @@ Note that taxonomy is an organic discipline, meaning that names may change or be
     A plectronoceratid (Plectronoceratida, stem Cephalopoda), known from abundant well-preserved material, revealing the complex 3D-structure of the siphuncle, which provided the basis for a major revision of the Plectronoceratida. From the (unnamed) Stage 10 (Furongian, late Cambrian) of Queensland, Australia. [Link](https://doi.org/10.7717/peerj.17003)
 
 37. ***Ticinoteuthis chuchichaeschtli*** Pohle & Klug, 2024  
-    Type species of a new genus (see above). Named after a famous Swiss shibboleth ("Chuchichäschtli"), meaning small kitchen cupboard, because it was stored in a drawer in Zurich for many years. From the Anisian (Middle Triassic) of Ticino, Switzerland. [Link] (https://doi.org/10.1186/s13358-024-00307-8)
+    Type species of a new genus (see above). Named after a famous Swiss shibboleth ("Chuchichäschtli"), meaning small kitchen cupboard, because it was stored in a drawer in Zurich for many years. From the Anisian (Middle Triassic) of Ticino, Switzerland. [Link](https://doi.org/10.1186/s13358-024-00307-8)
