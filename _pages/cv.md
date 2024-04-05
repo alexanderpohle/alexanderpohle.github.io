@@ -43,7 +43,7 @@ redirect_from:
     10/2021 - 12/2022  
     University of Zurich, Switzerland  
     Palaeontological Institute and Museum  
-    Database management, preparations for subsequent move of collections
+    Database management, preparations for subsequent move of collections  
     Short research project on Triassic cephalopods (orthoceratoids and coleoids) from Switzerland
 
 * **Technical assistant**  
