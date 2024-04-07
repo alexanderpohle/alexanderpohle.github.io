@@ -113,7 +113,7 @@ author_profile: true
 ## Media coverage
 
 - April 4, 2024 Several articles on *Ticinoteuthis chuchichaeschtli* in Swiss media:  
-<https://www.srf.ch/news/schweiz/entdeckung-der-uni-zuerich-duerfen-wir-vorstellen-die-tintenfischart-chuchichaeschtli> (in German)
-<https://www.tagesanzeiger.ch/palaeontologie-an-der-uni-zuerich-neu-entdeckte-tessiner-tintenfisch-art-wird-chuchichaeschtli-getauft-375547634858> (in German)
-<https://www.swissinfo.ch/eng/science/ticino-octopus-species-christened-chuchich%C3%A4schtli/75111337>
+    <https://www.srf.ch/news/schweiz/entdeckung-der-uni-zuerich-duerfen-wir-vorstellen-die-tintenfischart-chuchichaeschtli> (in German)  
+    <https://www.tagesanzeiger.ch/palaeontologie-an-der-uni-zuerich-neu-entdeckte-tessiner-tintenfisch-art-wird-chuchichaeschtli-getauft-375547634858> (in German)  
+    <https://www.swissinfo.ch/eng/science/ticino-octopus-species-christened-chuchich%C3%A4schtli/75111337>
 - March 19, 2024. Article Spotlight: Plectronoceratids (Cephalopoda) from the latest Cambrian at Black Mountain. *Communities @ PeerJ*. <https://peerj.com/blog/post/115284889009/> (with video interview on Youtube)
