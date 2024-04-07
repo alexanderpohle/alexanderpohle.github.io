@@ -1,12 +1,10 @@
 ---
-title: "Phylogeny of Palaeozoic nautiloid cephalopods"
+title: "Phylogeny of Palaeozoic "nautiloid" cephalopods"
 collection: research
 permalink: /research/nautiloid-phylogeny
-excerpt: 'The phylogenetic relationships of the various groups of early Palaeozoic "nautiloid" cephalopods were unclear for a long time. Together with an international team of colleagues, I carried out the first phylogenetic analysis of these taxa, applying modern Bayesian methods.'
+excerpt: "The phylogenetic relationships of the various groups of early Palaeozoic "nautiloid" cephalopods were unclear for a long time. Together with an international team of colleagues, I carried out the first phylogenetic analysis of these taxa, applying modern Bayesian methods."
 
 ---
-
-## Phylogeny of Palaeozoic "nautiloid" cephalopods
 
 The oldest cephalopods in the fossil record are of late Cambrian age (about 490 mya). During the Early and Middle Ordovician, they experienced a rapid diversification, where many groups classically considered as belonging to the subclass Nautiloidea appeared. This radiation in combination with a general scarcity of characters and widespread homoplasies made it difficult to figure out evolutionary pathways. A long series of authors proposed differing hypotheses, based on which characters they considered most significant (e.g., King & Evans 2019; Pohle et al. 2022). However, none of the previous attempts used phylogenetic analysis to corroborate their hypotheses, which was one of the main objectives of my PhD project.
 
@@ -18,7 +16,7 @@ With this goal, we assembled a large morphological character matrix of Cambrian 
 
 The orders Ellesmeroceratida, Plectronoceratida and Yanheceratida were recovered at the base of the cephalopod tree, with some members (especially ellesmeroceratids) being distributed among the early branches of the other clades. The relationships between the various groups is shown in Fig. 1. Note that in contrast to the publication, I here use the proposed endings of the orders for the upcoming revised Treatise (see King & Evans 2019).
 
-![Early cephalopod phylogeny](/images/nautphylo-simple.svg)
+![Early cephalopod phylogeny](/images/nautphylo-simple.svg)  
 **Fig. 1** Simplified phylogeny of early Palaeozoic cephalopods. From Pohle et al. (2022), reconstructions by Evelyn Friesenbichler.
 
 Importantly, the phylogeny shows that the common assignment of these early cephalopods to the Nautiloidea is incorrect. The origin of the living *Nautilus* lineage is not entirely clear, and it may either lie within the Orthoceratoidea or Multiceratoidea, while the living coleoids are firmly derived from the orthoceratoids (Pohle et al. 2022). Consequently, the Palaeozoic "nautiloids" encompasses crown and stem cephalopods, stem nautiloids, and even stem coleoids. From an evolutionary perspective, the term "nautiloid" in this broad sense has thus little value and should be used with caution. Personally, I prefer restricting it to the order Nautilida only, until we get a better understanding of its origin, and therefore the exact extent of the cephalopod crown and stem group.
