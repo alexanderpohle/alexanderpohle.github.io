@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Taxonomy"
-permalink: /taxonomy/
+permalink: /research/
 author_profile: true
 ---
 
