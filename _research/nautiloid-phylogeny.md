@@ -1,5 +1,5 @@
 ---
-title: "Phylogeny of Palaeozoic "nautiloid" cephalopods"
+title: "Phylogeny of Palaeozoic nautiloid cephalopods"
 excerpt: "The phylogenetic relationships of the various groups of Palaeozoic "nautiloid" cephalopods were unclear for a long time. Together with an international team of colleagues, I carried out the first phylogenetic analysis of these taxa, applying modern Bayesian methods."
 collection: research
 permalink: /taxonomy/nautiloid-phylogeny
