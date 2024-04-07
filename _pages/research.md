@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Taxonomy"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
