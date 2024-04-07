@@ -5,14 +5,9 @@ permalink: /taxonomy/
 author_profile: true
 ---
 
-## Phylogeny of Palaeozoic "nautiloid" cephalopods
+{% include base_path %}
 
-## Cephalopods from the Cambrian-Ordovician transition at Black Mountain (Queensland)
 
-## Non-ammonoid cephalopods from the Devonian of the Tafilalt
-
-## Orthoconic cephalopods from the Middle Triassic at Monte San Giorgio (Switzerland)
-
-## Belemnite phylogeny
-
-## Collaborations
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
