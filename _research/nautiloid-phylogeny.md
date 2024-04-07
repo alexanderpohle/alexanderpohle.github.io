@@ -22,6 +22,7 @@ The orders Ellesmeroceratida, Plectronoceratida and Yanheceratida were recovered
 Importantly, the phylogeny shows that the common assignment of these early cephalopods to the Nautiloidea is incorrect. The origin of the living *Nautilus* lineage is not entirely clear, and it may either lie within the Orthoceratoidea or Multiceratoidea, while the living coleoids are firmly derived from the orthoceratoids (Pohle et al. 2022). Consequently, the Palaeozoic "nautiloids" encompasses crown and stem cephalopods, stem nautiloids, and even stem coleoids. From an evolutionary perspective, the term "nautiloid" in this broad sense has thus little value and should be used with caution. Personally, I prefer restricting it to the order Nautilida only, until we get a better understanding of its origin, and therefore the exact extent of the cephalopod crown and stem group.
 
 Besides this major study, I have also been involved in smaller studies on the phylogeny of smaller groups of Palaeozoic cephalopods, applying simpler parsimony methods (Fang et al. 2019; Kröger & Pohle 2021).
+
 ### References
 Fang, X., **Pohle, A.**, Kröger, B., Aubrechtová, M., Burrett, C., Zhang, Y. & Zhang, Y. (2021). Phylogeny of Middle-Late Ordovician lituitid cephalopods based on cladistic analysis. *Journal of Systematic Palaeontology, 19(9)*, 633–650. <https://doi.org/10.1080/14772019.2021.1944354>
 
