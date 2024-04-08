@@ -41,7 +41,7 @@ author_profile: true
 - **Pohle, A.**, Klug, C., Toom, U. & Kröger, B. (2019). Conch structures, soft-tissue imprints and taphonomy of the Middle Ordovician cephalopod Tragoceras falcatum from Estonia. *Fossil Imprint, 75(1)*, 70–78. <https://doi.org/10.2478/if-2019-0006>
 - Klug, C., **Pohle, A.** & Korn, D. (2019). Empty cephalopod conchs as substrates for gastropod eggs from the Hangenberg Black Shale (Late Devonian) of the Maïder Basin (Morocco). *Fossil Imprint, 75(1)*, 59–63. <https://doi.org/10.2478/if-2019-0004>
 - Klug, C., Landman, N.H., Fuchs, D., Mapes, R.H., **Pohle, A.**, Guériau, P., Reguer, S. & Hoffmann, R. (2019). Anatomy and evolution of the first Coleoidea in the Carboniferous. *Communications Biology, 2*, 280. <https://doi.org/10.1038/s42003-019-0523-2>
-- **Pohle, A.**, Klug, C. & Haas, M. (2019). Gigantism, Taphonomy and Palaeoecology of Basiloceras, a new oncocerid genus from the Middle Devonian of the Tafilalt (Morocco). *Swiss Journal of Palaeontology, 138(1)*, 151¬–162. <https://doi.org/10.1007/s13358-019-00182-8>
+- **Pohle, A.**, Klug, C. & Haas, M. (2019). Gigantism, Taphonomy and Palaeoecology of *Basiloceras*, a new oncocerid genus from the Middle Devonian of the Tafilalt (Morocco). *Swiss Journal of Palaeontology, 138(1)*, 151–162. <https://doi.org/10.1007/s13358-019-00182-8>
 
 ### 2018
 
