@@ -11,7 +11,7 @@ The oldest cephalopods in the late Cambrian are generally poorly studied, partly
 In the first paper on this fauna, we described *Sinoeremoceras marywadeae* and revised the taxonomy of the order Plectronoceratida, showing that due to their unique siphuncle morphology (Fig. 1), they were commonly misinterpreted. We found that the Plectronoceratida is identical with the proposed "Protactinoceratida" and vastly reduced the number of species (from 68 to 11).
 
 ![Reconstruction of siphuncle of Sinoeremoceras](/images/sinoeremoceras-siphuncle.svg)  
-**Fig. 1** Reconstruction of the three-dimensional morphology of the siphuncle of *Sinoeremoceras*. From Pohle et al. (2024).
+**Fig. 1.** Reconstruction of the three-dimensional morphology of the siphuncle of *Sinoeremoceras*. From Pohle et al. (2024).
 
 These are not the only cephalopods from this collection, so this is an ongoing project.
 

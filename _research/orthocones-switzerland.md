@@ -19,6 +19,6 @@ Our study showed that the orthoceratoids in the Besano Formation belong to *Trem
 
 In our taxonomic review, we showed that the Triassic orthoceratoids likely belong to a single lineage, the Trematoceratidae of the Pseudorthoceratida. Note that the common labelling of specimens like these as "*Orthoceras*" or "*Michelinoceras*" even in museum exhibitions is incorrect, as these refer to Palaeozoic orthoceratid genera within a well-defined scope. In most cases, Triassic orthoceratoids probably belong to *Trematoceras*, although there are at least two further genera (Pohle & Klug 2024). With this revised classification, we hope to encourage further research on these taxa.
 
-### Reference
+### References
 - **Pohle, A.** & Klug, C. (2024). Orthoceratoid and coleoid cephalopods from the Middle Triassic of Switzerland with an updated taxonomic framework for Triassic Orthoceratoidea. *Swiss Journal of Palaeontology, 143*, 14. <https://doi.org/10.1186/s13358-024-00307-8>
-- Schastlivceva, N.P. (1988). Triasovye ortozeratidy i nautilidy SSSR \[Triassic orthoceratoids and nautiloids of the USSR]. *Akademiya Nauk SSSR, Trudy Paleontologicheskogo Instituta, 229*, 1-104.
+- Schastlivceva, N.P. (1988). Triasovye ortozeratidy i nautilidy SSSR \[Triassic orthoceratoids and nautiloids of the USSR]. *Akademiya Nauk SSSR, Trudy Paleontologicheskogo Instituta, 229*, 1-104. (in Russian).

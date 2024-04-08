@@ -17,7 +17,7 @@ With this goal, we assembled a large morphological character matrix of Cambrian 
 The orders Ellesmeroceratida, Plectronoceratida and Yanheceratida were recovered at the base of the cephalopod tree, with some members (especially ellesmeroceratids) being distributed among the early branches of the other clades. The relationships between the various groups is shown in Fig. 1. Note that in contrast to the publication, I here use the proposed endings of the orders for the upcoming revised Treatise (see King & Evans 2019).
 
 ![Early cephalopod phylogeny](/images/nautphylo-simple.svg)  
-**Fig. 1** Simplified phylogeny of early Palaeozoic cephalopods. From Pohle et al. (2022), reconstructions by Evelyn Friesenbichler.
+**Fig. 1.** Simplified phylogeny of early Palaeozoic cephalopods. From Pohle et al. (2022), reconstructions by Evelyn Friesenbichler.
 
 Importantly, the phylogeny shows that the common assignment of these early cephalopods to the Nautiloidea is incorrect. The origin of the living *Nautilus* lineage is not entirely clear, and it may either lie within the Orthoceratoidea or Multiceratoidea, while the living coleoids are firmly derived from the orthoceratoids (Pohle et al. 2022). Consequently, the Palaeozoic "nautiloids" encompasses crown and stem cephalopods, stem nautiloids, and even stem coleoids. From an evolutionary perspective, the term "nautiloid" in this broad sense has thus little value and should be used with caution. Personally, I prefer restricting it to the order Nautilida only, until we get a better understanding of its origin, and therefore the exact extent of the cephalopod crown and stem group.
 
