@@ -2,7 +2,7 @@
 title: 'Belemnite phylogeny'
 collection: research
 permalink: /research/belemnite-phylogeny
-excerpt: 'For my Postdoc in Bochum, I changed the topic to belemnites, which suffer from similar problems as other groups of fossil cephalopods in that phylogenetic methods are rarely applied. The goal of this project is to better understand the evolutionary relationships of belemnites and their relationships to other coleoids based on modern quantitative methods.'
+excerpt: 'For my Postdoc in Bochum, I study belemnites, which suffer from similar problems as other groups of fossil cephalopods in that phylogenetic methods are rarely applied. The goal of this project is to better understand the evolutionary relationships of belemnites and their relationships to other coleoids based on modern quantitative methods.'
 
 ---
 
