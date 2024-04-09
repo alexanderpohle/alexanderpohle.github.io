@@ -11,6 +11,8 @@ I list all taxa where I contributed in their first description in chronological 
 
 Note that taxonomy is an organic discipline, meaning that names may change or become invalidated by future work, though I will try to update this list as best as possible.
 
+Images are taken from the publication containing the original description of the taxon, unless noted otherwise.
+
 ## Family level and above
 
 1. **Pseudoalveolata** Stevens, Pohle, Hoffmann & Immenhauser, 2023 (unranked)  
@@ -25,6 +27,7 @@ Note that taxonomy is an organic discipline, meaning that names may change or be
    A small Early Devonian representative of the Orthoceratidae (Orthoceratida, Orthoceratoidea, Cephalopoda) that shows minute incisions or striae on its conch surface. [Link](https://www.researchgate.net/publication/328307395)
 
 3. ***Basiloceras*** Pohle, Klug & Haas, 2019  
+    ![Basiloceras](/images/basiloceras.png)
     A Middle Devonian acleistoceratid (Oncoceratida, Multiceratoidea, Cephalopoda) that comprises two species with a large size range (see below). [Link](https://doi.org/10.1007/s13358-019-00182-8)
 
 4. ***Ethanoceras*** Kröger & Pohle, 2021  
