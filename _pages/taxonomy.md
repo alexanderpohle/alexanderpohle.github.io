@@ -27,8 +27,8 @@ Images are taken from the publication containing the original description of the
    A small Early Devonian representative of the Orthoceratidae (Orthoceratida, Orthoceratoidea, Cephalopoda) that shows minute incisions or striae on its conch surface. [Link](https://www.researchgate.net/publication/328307395)
 
 3. ***Basiloceras*** Pohle, Klug & Haas, 2019  
-    ![Basiloceras](/images/basiloceras.jpg)  
-    A Middle Devonian acleistoceratid (Oncoceratida, Multiceratoidea, Cephalopoda) that comprises two species with a large size range (see below). [Link](https://doi.org/10.1007/s13358-019-00182-8)
+    A Middle Devonian acleistoceratid (Oncoceratida, Multiceratoidea, Cephalopoda) that comprises two species with a large size range (see below). [Link](https://doi.org/10.1007/s13358-019-00182-8)  
+    ![Basiloceras](/images/basiloceras.jpg)
 
 4. ***Ethanoceras*** Kröger & Pohle, 2021  
     An Early Ordovician taxon of the Rioceratidae (Rioceratida, Orthoceratoidea, Cephalopoda) that differs from most other early orthoceratoids by having a non-marginal siphuncle. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
@@ -49,8 +49,8 @@ Images are taken from the publication containing the original description of the
     A vertebrate for a change, a cladoselachian (Symmoriiformes, Holocephali, Chondrichthyes) from the Late Devonian. [Link](https://doi.org/10.1186/s13358-023-00266-6)
 
 10. ***Ticinoteuthis*** Pohle & Klug, 2024  
-    ![Ticinoteuthis](/images/ticinoteuthis.jpg)  
-    A stem coleoid resembling the enigmatic *Mojsisovicsteuthis*, with an elliptical, slowly expanding phragmocone. [Link](https://doi.org/10.1186/s13358-024-00307-8)
+     A stem coleoid resembling the enigmatic *Mojsisovicsteuthis*, with an elliptical, slowly expanding phragmocone. [Link](https://doi.org/10.1186/s13358-024-00307-8)  
+    ![Ticinoteuthis](/images/ticinoteuthis.jpg)
 
 ## Species
 
@@ -160,7 +160,8 @@ Images are taken from the publication containing the original description of the
     A tiny ellesmeroceratid (Ellesmeroceratida, stem Cephalopoda), the oldest known cephalopod from South America, from the early Tremadocian (Early Ordovician) of Argentina. [Link](https://doi.org/10.4202/app.01103.2023)
 
 36. ***Sinoeremoceras marywadeae*** Pohle, Jell & Klug, 2024  
-    A plectronoceratid (Plectronoceratida, stem Cephalopoda), known from abundant well-preserved material, revealing the complex 3D-structure of the siphuncle, which provided the basis for a major revision of the Plectronoceratida. From the (unnamed) Stage 10 (Furongian, late Cambrian) of Queensland, Australia. [Link](https://doi.org/10.7717/peerj.17003)
+    A plectronoceratid (Plectronoceratida, stem Cephalopoda), known from abundant well-preserved material, revealing the complex 3D-structure of the siphuncle, which provided the basis for a major revision of the Plectronoceratida. From the (unnamed) Stage 10 (Furongian, late Cambrian) of Queensland, Australia. [Link](https://doi.org/10.7717/peerj.17003)  
+    ![Sinoeremoceras marywadeae](/images/sinoeremoceras-marywadeae.jpg)
 
 37. ***Ticinoteuthis chuchichaeschtli*** Pohle & Klug, 2024  
     Type species of a new genus (see above). Named after a famous Swiss shibboleth ("Chuchichäschtli"), meaning small kitchen cupboard, because it was stored in a drawer in Zurich for many years. From the Anisian (Middle Triassic) of Ticino, Switzerland. [Link](https://doi.org/10.1186/s13358-024-00307-8)
