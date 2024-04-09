@@ -27,7 +27,7 @@ Images are taken from the publication containing the original description of the
    A small Early Devonian representative of the Orthoceratidae (Orthoceratida, Orthoceratoidea, Cephalopoda) that shows minute incisions or striae on its conch surface. [Link](https://www.researchgate.net/publication/328307395)
 
 3. ***Basiloceras*** Pohle, Klug & Haas, 2019  
-    ![Basiloceras](/images/basiloceras.png)
+    ![Basiloceras](/images/basiloceras.jpg)  
     A Middle Devonian acleistoceratid (Oncoceratida, Multiceratoidea, Cephalopoda) that comprises two species with a large size range (see below). [Link](https://doi.org/10.1007/s13358-019-00182-8)
 
 4. ***Ethanoceras*** Kröger & Pohle, 2021  
@@ -49,6 +49,7 @@ Images are taken from the publication containing the original description of the
     A vertebrate for a change, a cladoselachian (Symmoriiformes, Holocephali, Chondrichthyes) from the Late Devonian. [Link](https://doi.org/10.1186/s13358-023-00266-6)
 
 10. ***Ticinoteuthis*** Pohle & Klug, 2024  
+    ![Ticinoteuthis](/images/ticinoteuthis.jpg)  
     A stem coleoid resembling the enigmatic *Mojsisovicsteuthis*, with an elliptical, slowly expanding phragmocone. [Link](https://doi.org/10.1186/s13358-024-00307-8)
 
 ## Species
