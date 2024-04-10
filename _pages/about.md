@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Home"
+excerpt: "I am a postdoctoral researcher in Palaeontology at the Ruhr University Bochum, Germany in the Department Sediment and Isotope Geology. On this website, you can learn about my past and ongoing research projects."
 author_profile: true
 redirect_from: 
   - /about/
