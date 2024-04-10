@@ -14,7 +14,7 @@ description              : &description "Palaeontologist at Ruhr University Boch
 url                      : https://alexanderpohle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexanderpohle.github.io"
-teaser                   : "Reconstructions.png"
+teaser                   : "/images/Reconstructions.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
