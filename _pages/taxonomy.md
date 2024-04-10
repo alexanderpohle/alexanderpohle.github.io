@@ -32,22 +32,34 @@ Images are taken from the publication containing the original description of the
     Source: [Pohle et al. 2019, Swiss Journal of Palaeontology](https://doi.org/10.1007/s13358-019-00182-8).
 
 4. ***Ethanoceras*** Kröger & Pohle, 2021  
-    An Early Ordovician taxon of the Rioceratidae (Rioceratida, Orthoceratoidea, Cephalopoda) that differs from most other early orthoceratoids by having a non-marginal siphuncle. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+    An Early Ordovician taxon of the Rioceratidae (Rioceratida, Orthoceratoidea, Cephalopoda) that differs from most other early orthoceratoids by having a non-marginal siphuncle. [Link](https://doi.org/10.5852/ejt.2021.783.1601)  
+    ![Ethanoceras](/images/ethanoceras.jpg)  
+    Source: [Kröger & Pohle 2021, European Journal of Taxonomy](https://doi.org/10.5852/ejt.2021.783.1601).
 
 5. ***Hinlopoceras*** Kröger & Pohle, 2021  
-    Another Early Ordovician rioceratid (Rioceratida, Orthoceratoidea, Cephalopoda), with a relatively high expansion rate and distinct transverse bands or striae. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+    Another Early Ordovician rioceratid (Rioceratida, Orthoceratoidea, Cephalopoda), with a relatively high expansion rate and distinct transverse bands or striae. [Link](https://doi.org/10.5852/ejt.2021.783.1601)  
+    ![Hinlopoceras](/images/hinlopoceras.jpg)  
+    Source: [Kröger & Pohle 2021, European Journal of Taxonomy](https://doi.org/10.5852/ejt.2021.783.1601).
 
 6. ***Nyfrieslandoceras*** Kröger & Pohle, 2021  
-    A taxon intermediate between bassleroceratids and oncoceratids, belonging to the family Phthanoncoceratidae (Oncoceratida, Multiceratoidea, Cephalopoda) from the Early Ordovician. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+    A taxon intermediate between bassleroceratids and oncoceratids, belonging to the family Phthanoncoceratidae (Oncoceratida, Multiceratoidea, Cephalopoda) from the Early Ordovician. [Link](https://doi.org/10.5852/ejt.2021.783.1601)  
+    ![Nyfrieslandoceras](/images/nyfrieslandoceras.jpg)  
+    Source: [Kröger & Pohle 2021, European Journal of Taxonomy](https://doi.org/10.5852/ejt.2021.783.1601).
 
 7. ***Olenidslettoceras*** Kröger & Pohle, 2021  
-    As above, this is an Early Ordovician phthanoncoceratid (Oncoceratida, Multiceratoidea, Cephalopoda), with characteristic septal necks. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+    As above, this is an Early Ordovician phthanoncoceratid (Oncoceratida, Multiceratoidea, Cephalopoda), with characteristic septal necks. [Link](https://doi.org/10.5852/ejt.2021.783.1601)  
+    ![Olenidslettoceras](/images/olenidslettoceras.jpg)  
+    Source: [Kröger & Pohle 2021, European Journal of Taxonomy](https://doi.org/10.5852/ejt.2021.783.1601).
 
 8. ***Svalbardoceras*** Kröger & Pohle, 2021  
-    A slightly curved annulated rioceratid (Rioceratida, Multiceratoidea, Cephalopoda) with widely spaced septa from the Early Ordovician. [Link](https://doi.org/10.5852/ejt.2021.783.1601)
+    A slightly curved annulated rioceratid (Rioceratida, Multiceratoidea, Cephalopoda) with widely spaced septa from the Early Ordovician. [Link](https://doi.org/10.5852/ejt.2021.783.1601)  
+    ![Svalbardoceras](/images/svalbardoceras.jpg)  
+    Source: [Kröger & Pohle 2021, European Journal of Taxonomy](https://doi.org/10.5852/ejt.2021.783.1601).
 
 9. ***Maghriboselache*** Klug, Coates, Frey, Greif, Jobbins, Pohle, Lagnaoui, Bel Haouz & Ginter, 2023  
-    A vertebrate for a change, a cladoselachian (Symmoriiformes, Holocephali, Chondrichthyes) from the Late Devonian. [Link](https://doi.org/10.1186/s13358-023-00266-6)
+    A vertebrate for a change, a cladoselachian (Symmoriiformes, Holocephali, Chondrichthyes) from the Late Devonian. [Link](https://doi.org/10.1186/s13358-023-00266-6)  
+    ![Maghriboselache](/images/maghriboselache.jpg)  
+    Source: [Klug et al. 2023, Swiss Journal of Palaeontology](https://doi.org/10.1186/s13358-023-00266-6)
 
 10. ***Ticinoteuthis*** Pohle & Klug, 2024  
      A stem coleoid resembling the enigmatic *Mojsisovicsteuthis*, with an elliptical, slowly expanding phragmocone. [Link](https://doi.org/10.1186/s13358-024-00307-8)  
