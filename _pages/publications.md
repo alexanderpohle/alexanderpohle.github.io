@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed articles
 
 ### 2024
-- Klug, C., Schweigert, G., Hoffmann, R., Fuchs, D., **Pohle, A.**, Weis, R. & De Baets, K. (2024). Anatomy and size of Megateuthis, the largest belemnite. *Swiss Journal of Palaeontology, 143*, 23. <https://doi.org/10.1186/s13358-024-00320-x>
+- Klug, C., Schweigert, G., Hoffmann, R., Fuchs, D., **Pohle, A.**, Weis, R. & De Baets, K. (2024). Anatomy and size of *Megateuthis*, the largest belemnite. *Swiss Journal of Palaeontology, 143*, 23. <https://doi.org/10.1186/s13358-024-00320-x>
 - **Pohle, A.** & Klug, C. (2024). Orthoceratoid and coleoid cephalopods from the Middle Triassic of Switzerland with an updated taxonomic framework for Triassic Orthoceratoidea. *Swiss Journal of Palaeontology, 143*, 14. <https://doi.org/10.1186/s13358-024-00307-8>
 - **Pohle, A.**, Jell, P. & Klug, C. (2024). Plectronoceratids (Cephalopoda) from the latest Cambrian at Black Mountain, Queensland, reveal complex three-dimensional siphuncle morphology, with major taxonomic implications. *PeerJ, 12*, e17003. <https://doi.org/10.7717/peerj.17003>
 
