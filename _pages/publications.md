@@ -72,6 +72,7 @@ author_profile: true
 
 ### Regular talks
 
+- **Pohle, A.**, Hoffmann, R., Aubrechtová, M., Seuss, B., Kröger, B., Nützel, A., Stevens, K. & Immenhauser, A. (2024). Illuminating the formation cycle of cephalopod cameral deposits using electron beam microanalysis. *95<sup>th</sup> Annual Meeting of the Paläontologische Gesellschaft (PalGes)*, Warsaw, Poland.
 - **Pohle, A.**, Stevens, K., Fuchs, D., Hoffmann, R. & Immenhauser, A. (2023). Fossil coleoid cephalopods: The role of morphological character definitions in phylogenetic inference. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany.
 - **Pohle, A.**, Stevens, K. & Klug, C. (2022). Fossil cephalopod phylogenetics: recent advances, remaining challenges and future perspectives. *20<sup>th</sup> Swiss Geoscience Meeting, Lausanne, Switzerland*. **Awarded as best talk by a young researcher**
 - **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Bayesian inference of early Palaeozoic cephalopod evolution. *World Congress of Malacology 2022*, Munich, Germany.
@@ -85,6 +86,10 @@ author_profile: true
 ### Posters
 
 - **Pohle, A.** (2023). A persistent misnomer: The curious case of the Paleozoic cephalopod *Orthoceras*. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany. **Awarded 3<sup>rd</sup> place as best poster**
+
+### Session convener & chair
+
+- **Pohle, A.**, Karapunar, B., Neubauer, T.A. & Skawina, A. (2024). S1: Advances in mollusk paleontology. *95<sup>th</sup> Annual Meeting of the Paläontologische Gesellschaft (PalGes)*, Warsaw, Poland.
 
 ### Co-authored contributions
 

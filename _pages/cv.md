@@ -121,27 +121,33 @@ redirect_from:
 
 ## Field experience
 
+* **Estonia**  
+    2018  
+    Haarju, Saarema  
+    Ordovician-Silurian
+
 * **Germany**  
     2022, 2023  
     Bavaria, North-Rhine-Westphalia, Thuringia  
     Devonian, Permian-Jurassic
+
+* **Morocco**  
+    2014, 2015, 2017, 2018, 2019  
+    Tafilalt, Maïder  
+    Devonian
+
+* **Poland**  
+    2024  
+    Holy Cross Mountains  
+    Devonian, Carboniferous, Jurassic
 
 * **Spain**  
     2019  
     Aragon  
     Cambrian-Devonian
 
-* **Estonia**  
-    2018  
-    Haarju, Saarema  
-    Ordovician-Silurian
-
 * **Switzerland**  
     2017, 2019  
     Aargau  
     Triassic-Jurassic
 
-* **Morocco**  
-    2014, 2015, 2017, 2018, 2019  
-    Drâa-Tafilalet  
-    Devonian
