@@ -56,7 +56,7 @@ author_profile: true
 - Klug, C., Frey, L., **Pohle, A.**, De Baets, K. & Korn, D. (2017). Palaeozoic Evolution of Animal Mouthparts. *Bulletin of Geosciences, 92(4)*, 511–524. <https://doi.org/10.3140/bull.geosci.l648>
 
 ## Non peer-reviewed articles (including preprints)
-
+- Pohle, A., Stevens, K., Hoffmann, R., and Immenhauser, A. (2024). Phylogeochemistry: exploring evolutionary constraints on belemnite rostrum element composition. *EGUsphere*. <https://doi.org/10.5194/egusphere-2024-3383>.
 - Stevens, K., **Pohle, A.**, Hoffmann, R. & Immenhauser, A. (2022). Bayesian inference reveals a complex evolutionary history of belemnites. *bioRxiv*. <https://doi.org/10.1101/2022.08.22.504746>
 - Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2022). Putting the F in FBD analyses: tree constraints or morphological data? *bioRxiv*. <https://doi.org/10.1101/2022.07.07.499091>
 - Klug, C. & **Pohle, A.** (2018). The eastern Amessoui Syncline - a hotspot for Silurian to Carboniferous cephalopod research. *Field Guidebook: 10<sup>th</sup> International Symposium of Cephalopods Present and Past, Münstersche Forschungen zur Geologie und Paläontologie, 110*, 244–260.
