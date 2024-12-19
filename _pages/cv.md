@@ -93,20 +93,29 @@ redirect_from:
 
 ## Teaching experience
 
-* **BIO 264: Palaeobiology and Evolution of Invertebrates** (6 ECTS, 30 teaching hours per semester)  
+* **Ruhr University Bochum, course 176210: Palaeontology**  
+    Fall semester 2023, 2024  
+    1 ECTS, single lecture of teaching per semester  
+    Teaching lectures on Ordovician and Devonian
+
+* **University of Zurich, BIO 264: Palaeobiology and Evolution of Invertebrates**  
     Fall semester 2017, 2019  
+    6 ECTS, 30 teaching hours per semester  
     Teaching assistance during one-day field trip and afterwards, advising students preparing their reports, teaching lectures on cephalopod palaeobiology
 
-* **BIO 268: Palaeontological Fieldwork** (6 ECTS, 100 teaching hours per semester)  
+* **University of Zurich, BIO 268: Palaeontological Fieldwork**  
     Spring semester 2017, 2018, 2019  
+    6 ECTS, 100 teaching hours per semester  
     Teaching assistance in the field, advising students during writing of their reports and afterwards correction of reports
 
-* **BIO 586: Evolution and Palaeobiology of Cephalopods** (1 ECTS, 5 teaching hours per semester)  
+* **University of Zurich, BIO 586: Evolution and Palaeobiology of Cephalopods**  
     Spring semester 2018  
+    1 ECTS, 5 teaching hours per semester  
     Teaching lectures on Palaeozoic nautiloids and early cephalopod evolution
 
-* **ERD 241: Palaeontology** (3 ECTS, 10 teaching hours per semester)  
+* **University of Zurich, ERD 241: Palaeontology**  
     Spring semester 2017, 2018  
+    3 ECTS, 10 teaching hours per semester  
     Teaching assistance during practicals
 
 ### Non-academic teaching experience

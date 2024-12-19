@@ -86,6 +86,7 @@ author_profile: true
 
 ### Regular talks
 
+- **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2024). 'Phylogeochemistry': can trace elements inform belemnite evolutionary relationships? *68<sup>th</sup> Annual Meeting of The Palaeontological Association*, Erlangen, Germany.
 - **Pohle, A.**, Hoffmann, R., Aubrechtová, M., Seuss, B., Kröger, B., Nützel, A., Stevens, K. & Immenhauser, A. (2024). Illuminating the formation cycle of cephalopod cameral deposits using electron beam microanalysis. *95<sup>th</sup> Annual Meeting of the Paläontologische Gesellschaft (PalGes)*, Warsaw, Poland.
 - **Pohle, A.**, Stevens, K., Fuchs, D., Hoffmann, R. & Immenhauser, A. (2023). Fossil coleoid cephalopods: The role of morphological character definitions in phylogenetic inference. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany.
 - **Pohle, A.**, Stevens, K. & Klug, C. (2022). Fossil cephalopod phylogenetics: recent advances, remaining challenges and future perspectives. *20<sup>th</sup> Swiss Geoscience Meeting, Lausanne, Switzerland*. **Awarded as best talk by a young researcher**
