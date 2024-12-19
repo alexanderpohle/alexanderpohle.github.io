@@ -62,20 +62,6 @@ author_profile: true
 - Klug, C. & **Pohle, A.** (2018). The eastern Amessoui Syncline - a hotspot for Silurian to Carboniferous cephalopod research. *Field Guidebook: 10<sup>th</sup> International Symposium of Cephalopods Present and Past, Münstersche Forschungen zur Geologie und Paläontologie, 110*, 244–260.
 - Klug, C., Bohatý, J., Müller, P. & **Pohle, A.** (2017). Erstes vollständiges Nautiliden-Gehäuse aus der Lahn-Mulde - paläontologische Auswertung des Schurfs "Löhnberg I", Lkr. Limburg-Weilburg. *hessenARCHÄOLOGIE - Jahrbuch für Archäologie und Paläontologie in Hessen, 2016*, 27–29.
 
-## Data sets
-
-- Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2023). Supplementary materials for "Putting the F into FBD analysis: tree constraints or morphological data?" *Zenodo*, <https://doi.org/10.5281/zenodo.6884063>
-- Klug, C., Coates, M., Frey, L., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Haouz, W.B., Ginter, M. CT-stacks of the neurocranium of the Late Devonian chondrichthyan Maghriboselache. *MorphoSource*, <https://www.morphosource.org/projects/000492799>
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 1 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602439.v1>
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 2 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602445.v1>
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 3 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602448.v1>
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 4 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602451.v1>
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 5 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602454.v1>
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 6 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602460.v1>
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 7 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602445.v1>
-- Klug, C., Landman, N.H., Fuchs, D., Mapes, R.H., **Pohle, A.**, Gueriau, P., Solenn, R. & Hoffmann, R. (2019). RTI_Gordoniconus_AMNH43264v1.ptm. *figshare*, <https://doi.org/10.6084/m9.figshare.8319983>
-- Klug, C., Landman, N.H., Fuchs, D., Mapes, R.H., **Pohle, A.**, Gueriau, P., Solenn, R. & Hoffmann, R. (2019). RTI_Gordoniconus_AMNH43264v2.rti. *figshare*, <https://doi.org/10.6084/m9.figshare.8319989>
-
 ## Conference contributions
 
 ### Keynote and invited talks
@@ -116,6 +102,20 @@ author_profile: true
 - Klug, C., Samankassou, E., **Pohle, A.**, Zapalski, M. & Korn, D. (2018). Couscous ai frutti di mare – Early Devonian palaeoecology of the Moroccan mudmound locality Hamar Laghdad. *5<sup>th</sup> International Palaeontological Congress*, Paris, France.
 - Klug, C., Frey, L., **Pohle, A.**, De Baets, K. & Korn, D. (2018). Palaeozoic evolution of cephalopod mouthparts. *10<sup>th</sup> International Symposium of Cephalopods Present and Past*, Fez, Morocco.
 - Klug, C., Frey, L., **Pohle, A.** & Rücklin, M. (2017). Origin of the Konservatlagerstätten of the southern Maïder (Morocco) and gnathostome preservation. *14<sup>th</sup> International Symposium on Early and Lower Vertebrates*, Chęciny, Poland.
+
+## Data sets
+
+- Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2023). Supplementary materials for "Putting the F into FBD analysis: tree constraints or morphological data?" *Zenodo*, <https://doi.org/10.5281/zenodo.6884063>
+- Klug, C., Coates, M., Frey, L., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Haouz, W.B., Ginter, M. CT-stacks of the neurocranium of the Late Devonian chondrichthyan Maghriboselache. *MorphoSource*, <https://www.morphosource.org/projects/000492799>
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 1 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602439.v1>
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 2 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602445.v1>
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 3 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602448.v1>
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 4 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602451.v1>
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 5 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602454.v1>
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 6 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602460.v1>
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Additional file 7 of Early cephalopod evolution clarified through Bayesian phylogenetic inference. *figshare*, <https://doi.org/10.6084/m9.figshare.19602445.v1>
+- Klug, C., Landman, N.H., Fuchs, D., Mapes, R.H., **Pohle, A.**, Gueriau, P., Solenn, R. & Hoffmann, R. (2019). RTI_Gordoniconus_AMNH43264v1.ptm. *figshare*, <https://doi.org/10.6084/m9.figshare.8319983>
+- Klug, C., Landman, N.H., Fuchs, D., Mapes, R.H., **Pohle, A.**, Gueriau, P., Solenn, R. & Hoffmann, R. (2019). RTI_Gordoniconus_AMNH43264v2.rti. *figshare*, <https://doi.org/10.6084/m9.figshare.8319989>
 
 ## Public talks and seminars
 
