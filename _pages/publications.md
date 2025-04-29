@@ -5,7 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Current preprints
+
+- **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. and Immenhauser, A. (2025). Microstructural and geochemical evidence offers a solution to the cephalopod cameral deposits riddle. *bioRxiv*. <https://doi.org/10.1101/2025.02.25.639475>.
+- **Pohle, A.**, Stevens, K., Hoffmann, R., and Immenhauser, A. (2024). Phylogeochemistry: exploring evolutionary constraints on belemnite rostrum element composition. *EGUsphere*. <https://doi.org/10.5194/egusphere-2024-3383>.
+
 ## Peer-reviewed articles
+
+### 2025
+
+- Klug, C., **Pohle, A.**, Bolliger, T., Hagdorn, H., & Lehmann, J. (2025). Taphonomic and reworking processes isolating cephalopod septa and chamber fillings. *Lethaia, 58*, 1-18. <https://doi.org/10.18261/let.58.2.1>
 
 ### 2024
 - Klug, C., Schweigert, G., Hoffmann, R., Fuchs, D., **Pohle, A.**, Weis, R. & De Baets, K. (2024). Anatomy and size of *Megateuthis*, the largest belemnite. *Swiss Journal of Palaeontology, 143*, 23. <https://doi.org/10.1186/s13358-024-00320-x>
@@ -55,9 +64,7 @@ author_profile: true
 
 - Klug, C., Frey, L., **Pohle, A.**, De Baets, K. & Korn, D. (2017). Palaeozoic Evolution of Animal Mouthparts. *Bulletin of Geosciences, 92(4)*, 511–524. <https://doi.org/10.3140/bull.geosci.l648>
 
-## Non peer-reviewed articles (including preprints)
-- **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. and Immenhauser, A. (2025). Microstructural and geochemical evidence offers a solution to the cephalopod cameral deposits riddle. *bioRxiv*. <https://doi.org/10.1101/2025.02.25.639475>.
-- **Pohle, A.**, Stevens, K., Hoffmann, R., and Immenhauser, A. (2024). Phylogeochemistry: exploring evolutionary constraints on belemnite rostrum element composition. *EGUsphere*. <https://doi.org/10.5194/egusphere-2024-3383>.
+## Non peer-reviewed articles (including archived preprints)
 - Stevens, K., **Pohle, A.**, Hoffmann, R. & Immenhauser, A. (2022). Bayesian inference reveals a complex evolutionary history of belemnites. *bioRxiv*. <https://doi.org/10.1101/2022.08.22.504746>
 - Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2022). Putting the F in FBD analyses: tree constraints or morphological data? *bioRxiv*. <https://doi.org/10.1101/2022.07.07.499091>
 - Klug, C. & **Pohle, A.** (2018). The eastern Amessoui Syncline - a hotspot for Silurian to Carboniferous cephalopod research. *Field Guidebook: 10<sup>th</sup> International Symposium of Cephalopods Present and Past, Münstersche Forschungen zur Geologie und Paläontologie, 110*, 244–260.
