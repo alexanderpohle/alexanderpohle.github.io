@@ -13,10 +13,12 @@ author_profile: true
 
 ### 2025
 
+- Klug, C., Fuchs, D., **Pohle, A.**, Korn, D., De Baets, K., Hoffmann, R., Ware, D. & Ward, P.D. (2025). Cephalopod body size and macroecology through deep time. *Scientific Reports, 15*, 30736. <https://doi.org/10.1038/s41598-025-13940-1>
 - **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2025). Phylogeochemistry: exploring evolutionary constraints on belemnite rostrum element composition. *Biogeosciences, 22*, 3073–3102. <https://doi.org/10.5194/bg-22-3073-2025> **[Selected as highlight paper]**
 - Klug, C., **Pohle, A.**, Bolliger, T., Hagdorn, H. & Lehmann, J. (2025). Taphonomic and reworking processes isolating cephalopod septa and chamber fillings. *Lethaia, 58*, 1-18. <https://doi.org/10.18261/let.58.2.1>
 
 ### 2024
+
 - Klug, C., Schweigert, G., Hoffmann, R., Fuchs, D., **Pohle, A.**, Weis, R. & De Baets, K. (2024). Anatomy and size of *Megateuthis*, the largest belemnite. *Swiss Journal of Palaeontology, 143*, 23. <https://doi.org/10.1186/s13358-024-00320-x>
 - **Pohle, A.** & Klug, C. (2024). Orthoceratoid and coleoid cephalopods from the Middle Triassic of Switzerland with an updated taxonomic framework for Triassic Orthoceratoidea. *Swiss Journal of Palaeontology, 143*, 14. <https://doi.org/10.1186/s13358-024-00307-8>
 - **Pohle, A.**, Jell, P. & Klug, C. (2024). Plectronoceratids (Cephalopoda) from the latest Cambrian at Black Mountain, Queensland, reveal complex three-dimensional siphuncle morphology, with major taxonomic implications. *PeerJ, 12*, e17003. <https://doi.org/10.7717/peerj.17003>
