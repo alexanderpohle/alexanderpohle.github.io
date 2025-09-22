@@ -77,14 +77,14 @@ author_profile: true
 
 ### Keynote and invited talks
 
-- **Pohle, A.** (2025). Integrative approaches to fossil cephalopod macroevolution. *Geo4Göttingen*, Göttingen, Germany.
+- **Pohle, A.** (2025). Integrative approaches to fossil cephalopod macroevolution. *Geo4Göttingen 2025*, Göttingen, Germany.
 - **Pohle, A.** (2023). What is a “nautiloid” cephalopod? A modern perspective. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany.
 - **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X., & Klug, C. (2022). Phylogeny of early Palaeozoic cephalopods. *GSA Connects 2022*, Denver (Colorado), USA.
 - **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X., Jell, P. & Klug, C. (2022). Early cephalopod evolution: Insights from new methods and old fossils. *11<sup>th</sup> International Symposium on Cephalopods Present and Past*, London, United Kingdom.
 
 ### Regular talks
 
-- **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2025). Phylogeochemistry – the what, how and why. *Geo4Göttingen*, Göttingen, Germany.
+- **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2025). Phylogeochemistry – the what, how and why. *Geo4Göttingen 2025*, Göttingen, Germany.
 - **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2024). 'Phylogeochemistry': can trace elements inform belemnite evolutionary relationships? *68<sup>th</sup> Annual Meeting of The Palaeontological Association*, Erlangen, Germany.
 - **Pohle, A.**, Hoffmann, R., Aubrechtová, M., Seuss, B., Kröger, B., Nützel, A., Stevens, K. & Immenhauser, A. (2024). Illuminating the formation cycle of cephalopod cameral deposits using electron beam microanalysis. *95<sup>th</sup> Annual Meeting of the Paläontologische Gesellschaft (PalGes)*, Warsaw, Poland.
 - **Pohle, A.**, Stevens, K., Fuchs, D., Hoffmann, R. & Immenhauser, A. (2023). Fossil coleoid cephalopods: The role of morphological character definitions in phylogenetic inference. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany.
@@ -107,8 +107,11 @@ author_profile: true
 
 ### Co-authored contributions
 
-- Klug, C., **Pohle, A.**, Fuchs, D. & Hoffmann, R. (2022). Exceptionally preserved cephalopod fossils from conservation deposits. 11<sup>th</sup> International Symposium on Cephalopods Present and Past, London, United Kingdom.
-- Klug, C., Frey, L., Coates, M., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2022). Anatomy and phylogeny of a close relative of the chondrichthyan Cladoselache from the Devonian of Morocco. *66<sup>th</sup> Annual Meeting of The Palaeontological Association, Cork, Ireland.
+- Klug, C., Fuchs, D., **Pohle, A.**, Korn, D., De Baets, K., Hoffmann, R., Ward, P. & Mathes, G. (2025). Cephalopods as ecosystem engineers. *4<sup>th</sup> Crossing the Palaeontological-Ecological Gap (CPEG) & 3<sup>rd</sup> conservation Paleobiology Symposium*, Zurich, Switzerland.
+- Klug, C., Hoffmann, R., Tischlinger, H., Fuchs, D., Pohle, A., Rowe, A., Rouget, I. & Kruta, I. (2023). Evolution of coleoid neuroanatomy. *67<sup>th</sup> Annual Meeting of the Palaeontological Association*, Cambridge, United Kingdom.
+- Klug, C., Frey, L., Coates, M., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2023). Smelling in stereo: a new broad-snouted cladoselachian from the Devonian of Morocco and the origin of the chondrichthyan crown. *20<sup>th</sup> Conference of the European Association of Vertebrate Palaeontologists*, Sabadell (Barcelona), Spain.
+- Klug, C., **Pohle, A.**, Fuchs, D. & Hoffmann, R. (2022). Exceptionally preserved cephalopod fossils from conservation deposits. *11<sup>th</sup> International Symposium on Cephalopods Present and Past*, London, United Kingdom.
+- Klug, C., Frey, L., Coates, M., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2022). Anatomy and phylogeny of a close relative of the chondrichthyan Cladoselache from the Devonian of Morocco. *66<sup>th</sup> Annual Meeting of The Palaeontological Association*, Cork, Ireland.
 - Warnock, R.C.M., Barido-Sottani, J., De Baets, K., Sciré, J., **Pohle, A.** & Murdock, D. (2022). Evaluating different approaches to handling taxonomic uncertainty using the fossilized birth-death process. *Evolution 2022*, Cleveland (Ohio), USA.
 - Klug, C., Samankassou, E., **Pohle, A.**, Zapalski, M. & Korn, D. (2018). Couscous ai frutti di mare - the spectacular Moroccan mudmound locality Hamar Laghdad and its palaeoecology. *16<sup>th</sup> Swiss Geoscience Meeting*, Bern, Switzerland.
 - Samankassou, E., Klug, C., **Pohle, A.** & Franchi, F. (2018). Oases of biodiversity: Devonian mudmounds at Hamar Laghdad, Morocco. *20<sup>th</sup> International Sedimentological Congress*, Québec, Canada.
