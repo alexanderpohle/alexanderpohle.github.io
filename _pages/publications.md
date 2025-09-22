@@ -77,16 +77,18 @@ author_profile: true
 
 ### Keynote and invited talks
 
+- **Pohle, A.** (2025). Integrative approaches to fossil cephalopod macroevolution. *Geo4Göttingen*, Göttingen, Germany.
 - **Pohle, A.** (2023). What is a “nautiloid” cephalopod? A modern perspective. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany.
 - **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X., & Klug, C. (2022). Phylogeny of early Palaeozoic cephalopods. *GSA Connects 2022*, Denver (Colorado), USA.
-- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X., Jell, P. & Klug, C. (2022). Early cephalopod evolution: Insights from new methods and old fossils. *11<sup>th</sup> International Symposium on Cephalopods Present and Past, London*, United Kingdom.
+- **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X., Jell, P. & Klug, C. (2022). Early cephalopod evolution: Insights from new methods and old fossils. *11<sup>th</sup> International Symposium on Cephalopods Present and Past*, London, United Kingdom.
 
 ### Regular talks
 
+- **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2025). Phylogeochemistry – the what, how and why. *Geo4Göttingen*, Göttingen, Germany.
 - **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2024). 'Phylogeochemistry': can trace elements inform belemnite evolutionary relationships? *68<sup>th</sup> Annual Meeting of The Palaeontological Association*, Erlangen, Germany.
 - **Pohle, A.**, Hoffmann, R., Aubrechtová, M., Seuss, B., Kröger, B., Nützel, A., Stevens, K. & Immenhauser, A. (2024). Illuminating the formation cycle of cephalopod cameral deposits using electron beam microanalysis. *95<sup>th</sup> Annual Meeting of the Paläontologische Gesellschaft (PalGes)*, Warsaw, Poland.
 - **Pohle, A.**, Stevens, K., Fuchs, D., Hoffmann, R. & Immenhauser, A. (2023). Fossil coleoid cephalopods: The role of morphological character definitions in phylogenetic inference. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany.
-- **Pohle, A.**, Stevens, K. & Klug, C. (2022). Fossil cephalopod phylogenetics: recent advances, remaining challenges and future perspectives. *20<sup>th</sup> Swiss Geoscience Meeting, Lausanne, Switzerland*. **Awarded as best talk by a young researcher**
+- **Pohle, A.**, Stevens, K. & Klug, C. (2022). Fossil cephalopod phylogenetics: recent advances, remaining challenges and future perspectives. *20<sup>th</sup> Swiss Geoscience Meeting, Lausanne, Switzerland*. **[Awarded as best talk by a young researcher]**
 - **Pohle, A.**, Kröger, B., Warnock, R.C.M., King, A.H., Evans, D.H., Aubrechtová, M., Cichowolski, M., Fang, X. & Klug, C. (2022). Bayesian inference of early Palaeozoic cephalopod evolution. *World Congress of Malacology 2022*, Munich, Germany.
 - **Pohle, A.**, Kröger, B., Warnock, R. C. M., Evans, D. H., Fang, X., Cichowolski, M., Aubrechtová, M., King, A. H. & Klug, C. (2020). Phylogenetic analysis of Cambrian-Ordovician nautiloid cephalopods. *18<sup>th</sup> Swiss Geoscience Meeting*, Zurich, Switzerland (online).
 - **Pohle, A.**, Jell, P.A., Zhen, Y.-Y. & Klug, C. (2019). The forgotten latest Cambrian nautiloid cephalopods from Black Mountain (NW Queensland, Australia). *63<sup>rd</sup> Annual Meeting of The Palaeontological Association*, Valencia, Spain.
@@ -97,7 +99,7 @@ author_profile: true
 
 ### Posters
 
-- **Pohle, A.** (2023). A persistent misnomer: The curious case of the Paleozoic cephalopod *Orthoceras*. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany. **Awarded 3<sup>rd</sup> place as best poster**
+- **Pohle, A.** (2023). A persistent misnomer: The curious case of the Paleozoic cephalopod *Orthoceras*. *94. Jahrestagung der Paläontologischen Gesellschaft*, Jena, Germany. **[Awarded 3<sup>rd</sup> place as best poster]**
 
 ### Session convener & chair
 

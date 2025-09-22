@@ -34,7 +34,7 @@ redirect_from:
 * **Postdoctoral researcher**  
     01/2023 - present  
     Ruhr University Bochum, Germany  
-    Institute of Geology, Mineralogy and Geophysics  
+    Institute of Geosciences  
     Department Sediment and Isotope Geology  
     Supervisor: Prof. Adrian Immenhauser  
     Studying the phylogeny of Mesozoic coleoids, in particular belemnites, including geochemical approaches
@@ -66,6 +66,10 @@ redirect_from:
     Database management, various tasks in the collections
 
 ## Grants and awards
+
+* **Tilly Edinger Award**  
+    09/2025  
+    Awarded for outstanding research achievements in palaeontology by a young researcher
 
 * **3<sup>rd</sup> place Best Poster Award**  
     09/2023  
