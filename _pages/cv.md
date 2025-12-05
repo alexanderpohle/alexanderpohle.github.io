@@ -7,28 +7,6 @@ redirect_from:
   - /resume
 ---
 
-## Education
-
-* **PhD in Evolutionary Biology**  
-    11/2016 - 10/2021  
-    University of Zurich, Switzerland  
-    Palaeontological Institute and Museum  
-    Thesis: *Evolution and Palaeobiology of early cephalopods (Nautiloidea)*  
-    Supervisor: Prof. Christian Klug
-
-* **MSc in Biology, Palaeontology**  
-    01/2015 - 02/2016  
-    University of Zurich, Switzerland  
-    Palaeontological Institute and Museum  
-    Thesis: *Body size evolution in orthoconic cephalopods from the late Silurian and Devonian of the Anti-Atlas (Morocco)*  
-    Supervisor: Prof. Christian Klug
-
-* **BSc in Biology**  
-    09/2010 - 12/2014  
-    University of Zurich, Switzerland  
-    Minor: Earth System Sciences
-
-
 ## Professional experience
 
 * **Postdoctoral researcher**  
@@ -64,6 +42,28 @@ redirect_from:
     University of Zurich, Switzerland  
     Palaeontological Institute and Museum  
     Database management, various tasks in the collections
+
+## Education
+
+* **PhD in Evolutionary Biology**  
+    11/2016 - 10/2021  
+    University of Zurich, Switzerland  
+    Palaeontological Institute and Museum  
+    Thesis: *Evolution and Palaeobiology of early cephalopods (Nautiloidea)*  
+    Supervisor: Prof. Christian Klug
+
+* **MSc in Biology, Palaeontology**  
+    01/2015 - 02/2016  
+    University of Zurich, Switzerland  
+    Palaeontological Institute and Museum  
+    Thesis: *Body size evolution in orthoconic cephalopods from the late Silurian and Devonian of the Anti-Atlas (Morocco)*  
+    Supervisor: Prof. Christian Klug
+
+* **BSc in Biology**  
+    09/2010 - 12/2014  
+    University of Zurich, Switzerland  
+    Minor: Earth System Sciences
+
 
 ## Grants and awards
 
