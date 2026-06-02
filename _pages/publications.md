@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2025
 
-- **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. and Immenhauser, A. (2025). Microstructural and geochemical evidence offers a solution to the cephalopod cameral deposits riddle. *Palaeontology, 68 (6)*, e70032. <https://doi.org/10.1111/pala.70032>
+- **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. & Immenhauser, A. (2025). Microstructural and geochemical evidence offers a solution to the cephalopod cameral deposits riddle. *Palaeontology, 68 (6)*, e70032. <https://doi.org/10.1111/pala.70032>
 - Klug, C., Fuchs, D., **Pohle, A.**, Korn, D., De Baets, K., Hoffmann, R., Ware, D. & Ward, P.D. (2025). Cephalopod body size and macroecology through deep time. *Scientific Reports, 15*, 30736. <https://doi.org/10.1038/s41598-025-13940-1>
 - **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2025). Phylogeochemistry: exploring evolutionary constraints on belemnite rostrum element composition. *Biogeosciences, 22*, 3073–3102. <https://doi.org/10.5194/bg-22-3073-2025> **[Selected as highlight paper]**
 - Klug, C., **Pohle, A.**, Bolliger, T., Hagdorn, H. & Lehmann, J. (2025). Taphonomic and reworking processes isolating cephalopod septa and chamber fillings. *Lethaia, 58*, 1-18. <https://doi.org/10.18261/let.58.2.1>
@@ -24,7 +24,7 @@ author_profile: true
 
 - Cichowolski, M., Vaccari, N., **Pohle, A.**, Morón-Alfonso, D.A., Vaucher, R. & Waisfeld, B.G. (2023). Early Tremadocian cephalopods from Santa Rosita Formation in NW Argentina: the oldest record for South America. *Acta Palaeontologica Polonica 68(4)*, 583-601. <https://doi.org/10.4202/app.01103.2023>
 - Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2023). Putting the F into FBD analysis: tree constraints or morphological data? *Palaeontology, 66(6)*, e12679. <https://doi.org/10.1111/pala.12679>
-- Klug, C., Hoffmann, R., Tischlinger, H., Fuchs, D., **Pohle, A.**, Rowe, A., et al. (2023). ‘Arm brains’ (axial nerves) of Jurassic coleoids and the evolution of coleoid neuroanatomy. *Swiss Journal of Palaeontology, 142*, 22. <https://doi.org/10.1186/s13358-023-00285-3>
+- Klug, C., Hoffmann, R., Tischlinger, H., Fuchs, D., **Pohle, A.**, Rowe, A., Rouget, I. & Kruta, I. (2023). ‘Arm brains’ (axial nerves) of Jurassic coleoids and the evolution of coleoid neuroanatomy. *Swiss Journal of Palaeontology, 142*, 22. <https://doi.org/10.1186/s13358-023-00285-3>
 - Stevens, K.\*, **Pohle, A.**\*, Hoffmann, R., & Immenhauser, A. (2023). Bayesian inference reveals a complex evolutionary history of belemnites. *Palaeontologia Electronica, 26(1)*, a13. <https://doi.org/10.26879/1239>
 - Klug, C., Coates, M., Frey, M. Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2023). Broad snouted cladoselachian with sensory specialization at the base of modern chondrichthyans. *Swiss Journal of Palaeontology, 142*, 2. <https://doi.org/10.1186/s13358-023-00266-6>
 
@@ -65,8 +65,8 @@ author_profile: true
 
 ## Non peer-reviewed articles (including archived preprints)
 
-- **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. and Immenhauser, A. (2025). Microstructural and geochemical evidence offers a solution to the cephalopod cameral deposits riddle. *bioRxiv*. <https://doi.org/10.1101/2025.02.25.639475>
-- **Pohle, A.**, Stevens, K., Hoffmann, R., and Immenhauser, A. (2024). Phylogeochemistry: exploring evolutionary constraints on belemnite rostrum element composition. *EGUsphere*. <https://doi.org/10.5194/egusphere-2024-3383>
+- **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. & Immenhauser, A. (2025). Microstructural and geochemical evidence offers a solution to the cephalopod cameral deposits riddle. *bioRxiv*. <https://doi.org/10.1101/2025.02.25.639475>
+- **Pohle, A.**, Stevens, K., Hoffmann, R.,&and Immenhauser, A. (2024). Phylogeochemistry: exploring evolutionary constraints on belemnite rostrum element composition. *EGUsphere*. <https://doi.org/10.5194/egusphere-2024-3383>
 - Stevens, K., **Pohle, A.**, Hoffmann, R. & Immenhauser, A. (2022). Bayesian inference reveals a complex evolutionary history of belemnites. *bioRxiv*. <https://doi.org/10.1101/2022.08.22.504746>
 - Barido-Sottani, J., **Pohle, A.**, De Baets, K., Murdock, D. & Warnock, R.C.M. (2022). Putting the F in FBD analyses: tree constraints or morphological data? *bioRxiv*. <https://doi.org/10.1101/2022.07.07.499091>
 - Klug, C. & **Pohle, A.** (2018). The eastern Amessoui Syncline - a hotspot for Silurian to Carboniferous cephalopod research. *Field Guidebook: 10<sup>th</sup> International Symposium of Cephalopods Present and Past, Münstersche Forschungen zur Geologie und Paläontologie, 110*, 244–260.
@@ -106,11 +106,13 @@ author_profile: true
 
 ### Co-authored contributions
 
+- Klug, C., Greif, M., **Pohle, A.**, Ginter, M., Coates, M., Bel Haouz, W., Lagnaoui, A., & Frey, L. (2026). Anatomy and behaviour of the oldest elasmobranch *Phoebodus* from the Moroccan Devonian. *18<sup>th</sup> International Symposium Early and Lower Vertebrates*, Berrechid, Morocco.
+- Klug, C., Greif, M., **Pohle, A.**, Ginter, M., Coates, M., Bel Haouz, W., Lagnaoui, A., & Frey, L. (2025). The face of the oldest elasmobranch *Phoebodus* from the Moroccan Devonian. *85<sup>th</sup> Annual meeting of the Society of Vertebrate Paleontology*, Birmingham, United Kingdom.
 - Klug, C., Fuchs, D., **Pohle, A.**, Korn, D., De Baets, K., Hoffmann, R., Ward, P. & Mathes, G. (2025). Cephalopods as ecosystem engineers. *4<sup>th</sup> Crossing the Palaeontological-Ecological Gap (CPEG) & 3<sup>rd</sup> conservation Paleobiology Symposium*, Zurich, Switzerland.
 - Klug, C., Hoffmann, R., Tischlinger, H., Fuchs, D., Pohle, A., Rowe, A., Rouget, I. & Kruta, I. (2023). Evolution of coleoid neuroanatomy. *67<sup>th</sup> Annual Meeting of the Palaeontological Association*, Cambridge, United Kingdom.
 - Klug, C., Frey, L., Coates, M., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2023). Smelling in stereo: a new broad-snouted cladoselachian from the Devonian of Morocco and the origin of the chondrichthyan crown. *20<sup>th</sup> Conference of the European Association of Vertebrate Palaeontologists*, Sabadell (Barcelona), Spain.
 - Klug, C., **Pohle, A.**, Fuchs, D. & Hoffmann, R. (2022). Exceptionally preserved cephalopod fossils from conservation deposits. *11<sup>th</sup> International Symposium on Cephalopods Present and Past*, London, United Kingdom.
-- Klug, C., Frey, L., Coates, M., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2022). Anatomy and phylogeny of a close relative of the chondrichthyan Cladoselache from the Devonian of Morocco. *66<sup>th</sup> Annual Meeting of The Palaeontological Association*, Cork, Ireland.
+- Klug, C., Frey, L., Coates, M., Greif, M., Jobbins, M., **Pohle, A.**, Lagnaoui, A., Bel Haouz, W. & Ginter, M. (2022). Anatomy and phylogeny of a close relative of the chondrichthyan *Cladoselache* from the Devonian of Morocco. *66<sup>th</sup> Annual Meeting of The Palaeontological Association*, Cork, Ireland.
 - Warnock, R.C.M., Barido-Sottani, J., De Baets, K., Sciré, J., **Pohle, A.** & Murdock, D. (2022). Evaluating different approaches to handling taxonomic uncertainty using the fossilized birth-death process. *Evolution 2022*, Cleveland (Ohio), USA.
 - Klug, C., Samankassou, E., **Pohle, A.**, Zapalski, M. & Korn, D. (2018). Couscous ai frutti di mare - the spectacular Moroccan mudmound locality Hamar Laghdad and its palaeoecology. *16<sup>th</sup> Swiss Geoscience Meeting*, Bern, Switzerland.
 - Samankassou, E., Klug, C., **Pohle, A.** & Franchi, F. (2018). Oases of biodiversity: Devonian mudmounds at Hamar Laghdad, Morocco. *20<sup>th</sup> International Sedimentological Congress*, Québec, Canada.

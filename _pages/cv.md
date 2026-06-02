@@ -10,7 +10,7 @@ redirect_from:
 ## Professional experience
 
 * **Postdoctoral researcher**  
-    01/2023 - present  
+    01/2023 - 02/2026
     Ruhr University Bochum, Germany  
     Institute of Geosciences  
     Department Sediment and Isotope Geology  
@@ -64,8 +64,25 @@ redirect_from:
     University of Zurich, Switzerland  
     Minor: Earth System Sciences
 
+## Grants
 
-## Grants and awards
+* **Deutsche Forschungsgemeinschaft (DFG) Research Grant 585706029**  
+    04/2026  
+    Funding for two years for project "3D-geochemistry of cephalopod cameral deposits – a new Paleozoic carbonate archive?"
+
+* **GSA International Travel Grant**  
+    10/2022  
+    Financial contribution to participate at the GSA Connects 2022 meeting in Denver, Colorado, USA
+
+* **Travel Bursary**  
+    09/2022  
+    Financial contribution to participate at the International Symposium on Cephalopods Present and Past in London, United Kingdom
+
+* **Swiss National Science Foundation (SNSF) Project 200020_169627**  
+    09/2016  
+    Co-authored proposal for own PhD project "Evolution and Palaeobiology of early cephalopods (Nautiloidea)", granted to Prof. Christian Klug
+
+## Prizes
 
 * **Tilly Edinger Award**  
     09/2025  
@@ -79,21 +96,21 @@ redirect_from:
     11/2022  
     Awarded for the best talk of a young researcher at the Swiss Geoscience Meeting 2022 in Lausanne, Switzerland
 
-* **GSA International Travel Grant**  
-    10/2022  
-    Financial contribution to participate at the GSA Connects 2022 meeting in Denver, Colorado, USA
-
-* **Travel Bursary**  
-    09/2022  
-    Financial contribution to participate at the International Symposium on Cephalopods Present and Past in London, United Kingdom
-
 * **Distinction for Excellent Dissertation**  
     02/2022  
     Awarded by the Faculty of Science of the University of Zurich (given to the top ca. 5% of dissertations)
 
-* **Swiss National Science Foundation Project 200020_169627**  
-    09/2016  
-    Co-authored proposal for own PhD project "Evolution and Palaeobiology of early cephalopods (Nautiloidea)", granted to Prof. Christian Klug
+## Voluntary academic activities
+
+* **MolluscaBase Editor**  
+    09/2025 - present  
+    <https://www.molluscabase.org>  
+    Taxonomic database, editor for fossil cephalopods
+
+* **Reviewer**  
+    Since 2018  
+    23 manuscripts in 13 journals, including:  
+    Acta Palaeontologica Polonica; Bulletin of Geosciences; Communications Biology; European Journal of Taxonomy; Fossil Studies; iScience; Journal of Systematic Biology; Nature Communications; Palaeogeography; Palaeoclimatology, Palaeoecology; Palaeontologia Electronica; PeerJ; Swiss Journal of Palaeontology.
 
 ## Teaching experience
 
@@ -131,7 +148,6 @@ redirect_from:
     Jugend+Sport licence D  
     Two training sessions of 90 minutes per week, plus competitive matches on weekends
 
-
 ## Field experience
 
 * **Estonia**  
@@ -140,7 +156,7 @@ redirect_from:
     Ordovician-Silurian
 
 * **Germany**  
-    2022, 2023  
+    2022, 2023, 2025  
     Bavaria, North-Rhine-Westphalia, Thuringia  
     Devonian, Permian-Jurassic
 
