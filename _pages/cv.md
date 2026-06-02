@@ -10,7 +10,7 @@ redirect_from:
 ## Professional experience
 
 * **Postdoctoral researcher**  
-    01/2023 - 02/2026
+    01/2023 - 02/2026  
     Ruhr University Bochum, Germany  
     Institute of Geosciences  
     Department Sediment and Isotope Geology  
