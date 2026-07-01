@@ -7,6 +7,10 @@ author_profile: true
 
 ## Peer-reviewed articles
 
+### 2026
+
+- Klug, C., Greif, M., **Pohle, A.**, Ginter, M., Coates, M.I., Bel Haouz, W., Lagnaoui, A., Pople, J. & Frey, L. (2026). The oldest shark face—anatomy of the Devonian elasmobranch *Phoebodus*. *Acta Palaeontologica Polonica, 71*, 399–430. <https://doi.org/10.4202/app.01290.2025>
+
 ### 2025
 
 - **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. & Immenhauser, A. (2025). Microstructural and geochemical evidence offers a solution to the cephalopod cameral deposits riddle. *Palaeontology, 68 (6)*, e70032. <https://doi.org/10.1111/pala.70032>
