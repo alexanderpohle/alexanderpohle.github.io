@@ -87,6 +87,7 @@ author_profile: true
 
 ### Regular talks
 
+- **Pohle, A.**, Hoffmann, R., Nützel, A., Seuss, B., Aubrechtová, M., Kröger, B., Stevens, K. & Immenhauser, A. (2026). The missing F: Form, Formation and Function of cephalopod cameral deposits. *Paleo4Alps 2026*, Bolzano, Italy.
 - **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2025). Phylogeochemistry – the what, how and why. *Geo4Göttingen 2025*, Göttingen, Germany.
 - **Pohle, A.**, Stevens, K., Hoffmann, R. & Immenhauser, A. (2024). 'Phylogeochemistry': can trace elements inform belemnite evolutionary relationships? *68<sup>th</sup> Annual Meeting of The Palaeontological Association*, Erlangen, Germany.
 - **Pohle, A.**, Hoffmann, R., Aubrechtová, M., Seuss, B., Kröger, B., Nützel, A., Stevens, K. & Immenhauser, A. (2024). Illuminating the formation cycle of cephalopod cameral deposits using electron beam microanalysis. *95<sup>th</sup> Annual Meeting of the Paläontologische Gesellschaft (PalGes)*, Warsaw, Poland.
@@ -110,6 +111,7 @@ author_profile: true
 
 ### Co-authored contributions
 
+- Klug, C., Fuchs, D., **Pohle, A.**, Korn, D., De Baets, K., Hoffmann, R., Ware, D. & Ward, P.D. (2026). Cephalopod body size in deep time. *Paleo4Alps 2026*, Bolzano, Italy.
 - Klug, C., Greif, M., **Pohle, A.**, Ginter, M., Coates, M., Bel Haouz, W., Lagnaoui, A., & Frey, L. (2026). Anatomy and behaviour of the oldest elasmobranch *Phoebodus* from the Moroccan Devonian. *18<sup>th</sup> International Symposium Early and Lower Vertebrates*, Berrechid, Morocco.
 - Klug, C., Greif, M., **Pohle, A.**, Ginter, M., Coates, M., Bel Haouz, W., Lagnaoui, A., & Frey, L. (2025). The face of the oldest elasmobranch *Phoebodus* from the Moroccan Devonian. *85<sup>th</sup> Annual meeting of the Society of Vertebrate Paleontology*, Birmingham, United Kingdom.
 - Klug, C., Fuchs, D., **Pohle, A.**, Korn, D., De Baets, K., Hoffmann, R., Ward, P. & Mathes, G. (2025). Cephalopods as ecosystem engineers. *4<sup>th</sup> Crossing the Palaeontological-Ecological Gap (CPEG) & 3<sup>rd</sup> conservation Paleobiology Symposium*, Zurich, Switzerland.
