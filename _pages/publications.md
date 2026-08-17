@@ -9,6 +9,7 @@ author_profile: true
 
 ### 2026
 
+- Klug, C., Naglik, C., Greif, M., El Fehri, A.E.F., De Baets, K., Korn, D., Haouz, W.B., Lagnaoui, A. & **Pohle, A.** (2026). Boundaries of Geoheritage in the Tafilalt and Maïder Regions, an Eldorado for Palaeozoic Cephalopods. *Geoheritage, 18*, 195. <https://doi.org/10.1007/s12371-026-01424-1>
 - Klug, C., Greif, M., **Pohle, A.**, Ginter, M., Coates, M.I., Bel Haouz, W., Lagnaoui, A., Pople, J. & Frey, L. (2026). The oldest shark face—anatomy of the Devonian elasmobranch *Phoebodus*. *Acta Palaeontologica Polonica, 71*, 399–430. <https://doi.org/10.4202/app.01290.2025>
 
 ### 2025
