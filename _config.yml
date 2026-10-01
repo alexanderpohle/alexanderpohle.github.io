@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexander Pohle"
 title_separator          : "-"
 name                     : &name "Alexander Pohle"
-description              : &description "Palaeontologist at Ruhr University Bochum, Germany"
+description              : &description "Palaeontologist at University of Zurich, Switzerland"
 url                      : https://alexanderpohle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexanderpohle.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Alexander Pohle"
   avatar           : "profile.png"
   bio              : "Palaeontologist with a passion for fossil cephalopods and phylogenetics"
-  location         : "Ruhr University Bochum, DE"
+  location         : "University of Zurich, CH"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=zKkRJZ4AAAAJ"
-  email            : "alexander.pohle [at] rub.de"
+  email            : "alexander.pohle [at] pim.uzh.ch"
   researchgate     : "https://www.researchgate.net/profile/Alexander-Pohle"
   uri              :
   bitbucket        :

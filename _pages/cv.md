@@ -10,6 +10,13 @@ redirect_from:
 ## Professional experience
 
 * **Postdoctoral researcher**  
+    10/2026 - current
+    University of Zurich, Switzerland  
+    Palaeontological Institute  
+    Supervisor: Prof. Christian Klug  
+    Studying the phylogeny of ammonoids
+
+* **Postdoctoral researcher**  
     01/2023 - 02/2026  
     Ruhr University Bochum, Germany  
     Institute of Geosciences  
@@ -109,8 +116,8 @@ redirect_from:
 
 * **Reviewer**  
     Since 2018  
-    23 manuscripts in 13 journals, including:  
-    Acta Palaeontologica Polonica; Bulletin of Geosciences; Communications Biology; European Journal of Taxonomy; Fossil Studies; iScience; Journal of Systematic Biology; Nature Communications; Palaeogeography; Palaeoclimatology, Palaeoecology; Palaeontologia Electronica; PeerJ; Swiss Journal of Palaeontology.
+    26 manuscripts in 14 journals, including:  
+    Acta Palaeontologica Polonica; Bulletin of Geosciences; Communications Biology; European Journal of Taxonomy; Fossil Studies; iScience; Irish Journal of Earth Sciences; Journal of Systematic Biology; Nature Communications; Palaeogeography, Palaeoclimatology, Palaeoecology; Palaeontologia Electronica; Paleobiology; PeerJ; Swiss Journal of Palaeontology.
 
 ## Teaching experience
 
