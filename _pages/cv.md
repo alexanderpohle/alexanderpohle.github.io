@@ -10,7 +10,7 @@ redirect_from:
 ## Professional experience
 
 * **Postdoctoral researcher**  
-    10/2026 - current
+    10/2026 - current  
     University of Zurich, Switzerland  
     Palaeontological Institute  
     Supervisor: Prof. Christian Klug  
